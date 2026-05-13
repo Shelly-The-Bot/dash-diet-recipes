@@ -1,0 +1,54 @@
+{
+  "name": "Crispy Honey Sriracha Chicken Tenders",
+  "category": "high-protein",
+  "tags": [],
+  "servings": 12,
+  "source_url": "https://www.myprotein.com/thezone/recipe/honey-sriracha-chicken-tenders/",
+  "raw_ingredients": [
+    "1 cup homemade buttermilk",
+    "2 chicken breasts",
+    "2 tsp garlic powder",
+    "2 tsp onion powder",
+    "2 tsp salt and pepper",
+    "70g crushed corn flakes",
+    "1 tsp paprika",
+    "1-2 tbsp sriracha",
+    "1 tbsp honey",
+    "Squeeze lemon juice"
+  ],
+  "ingredients": [],
+  "totals_per_serving": {
+    "kcal": 335,
+    "protein_g": 40,
+    "carbs_g": 0,
+    "fat_g": 0,
+    "sodium_mg": 0,
+    "fiber_g": 0,
+    "gl": null
+  },
+  "dash_servings_per_serving": {
+    "grains": 0.0,
+    "meats": 0.0,
+    "vegetables": 0.0,
+    "fruits": 0.0,
+    "dairy": 0.0,
+    "nuts": 0.0,
+    "sweets": 0.0,
+    "fats": 0.0
+  },
+  "compliance": {
+    "bp": true,
+    "diabetes": true,
+    "biliary": true
+  },
+  "_meta": {
+    "unknown_ingredients": [],
+    "unknown_nutrients": [],
+    "parsing_warnings": [],
+    "inference_notes": [
+      "servings: 12 (Makes 12 tenders)",
+      "protein: 40g per serving, kcal: 335 per serving"
+    ],
+    "suspicious": false
+  }
+}
