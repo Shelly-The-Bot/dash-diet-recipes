@@ -7,26 +7,20 @@
   "raw_ingredients": [
     "1/2 cup rolled oats",
     "1 cup water",
-    "1/2 medium banana"
+    "1/2 medium banana",
+    "1 tsp honey"
   ],
   "ingredients": [
     {
       "original_text": "1/2 cup rolled oats",
       "parsed_amount": "",
-      "amount_grams": 80,
+      "amount_grams": 40,
       "name_normalized": "rolled oats",
       "fdc_id": null,
       "food_name": "rolled oats",
       "dash_group": "grains",
       "match_confidence": 1.0,
-      "nutrients": {
-        "kcal": 389,
-        "protein_g": 16.9,
-        "carbs_g": 66,
-        "fat_g": 6.9,
-        "sodium_mg": 2,
-        "fiber_g": 11
-      },
+      "nutrients": null,
       "_status": "known"
     },
     {
@@ -50,14 +44,19 @@
       "food_name": "banana",
       "dash_group": "fruits",
       "match_confidence": 1.0,
-      "nutrients": {
-        "kcal": 53,
-        "protein_g": 0.8,
-        "carbs_g": 13.5,
-        "fat_g": 0.2,
-        "sodium_mg": 1,
-        "fiber_g": 1.5
-      },
+      "nutrients": null,
+      "_status": "known"
+    },
+    {
+      "original_text": "1 tsp honey",
+      "parsed_amount": "",
+      "amount_grams": 7,
+      "name_normalized": "honey",
+      "fdc_id": null,
+      "food_name": "honey",
+      "dash_group": "sweets",
+      "match_confidence": 1.0,
+      "nutrients": null,
       "_status": "known"
     }
   ],
@@ -77,7 +76,7 @@
     "fruits": 0.5,
     "dairy": 0.0,
     "nuts": 0.0,
-    "sweets": 0.0,
+    "sweets": 0.5,
     "fats": 0.0
   },
   "compliance": {
@@ -90,7 +89,12 @@
       "1 cup water"
     ],
     "unknown_nutrients": [],
-    "parsing_warnings": [],
+    "parsing_warnings": [
+      "ingredient[0]: missing: name or name_normalized",
+      "ingredient[1]: missing: name or name_normalized",
+      "ingredient[2]: missing: name or name_normalized",
+      "ingredient[3]: missing: name or name_normalized"
+    ],
     "inference_notes": [
       "servings: 2"
     ],
