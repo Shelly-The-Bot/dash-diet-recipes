@@ -1,0 +1,166 @@
+{
+  "name": "One-Pan Halloumi & Harissa Bake",
+  "category": "dinner",
+  "tags": [],
+  "servings": 4,
+  "source_url": "https://www.myprotein.com/thezone/recipe/one-pan-halloumi-harissa-bake/",
+  "raw_ingredients": [
+    "2tbsp. olive oil",
+    "1 aubergine (sliced)",
+    "2 garlic cloves (crushed)",
+    "1can chopped tomatoes",
+    "1tbsp. harissa paste",
+    "225g block halloumi (sliced)",
+    "To garnish: fresh basil",
+    "Serving suggestion: couscous"
+  ],
+  "ingredients": [
+    {
+      "original_text": "2tbsp. olive oil",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "1 aubergine (sliced)",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "2 garlic cloves (crushed)",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "1can chopped tomatoes",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "1tbsp. harissa paste",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "225g block halloumi (sliced)",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "To garnish: fresh basil",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "Serving suggestion: couscous",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    }
+  ],
+  "totals_per_serving": {
+    "kcal": 0.0,
+    "protein_g": 0.0,
+    "carbs_g": 0.0,
+    "fat_g": 0.0,
+    "sodium_mg": 0.0,
+    "fiber_g": 0.0,
+    "gl": null
+  },
+  "dash_servings_per_serving": {
+    "grains": 0.0,
+    "meats": 0.0,
+    "vegetables": 0.0,
+    "fruits": 0.0,
+    "dairy": 0.0,
+    "nuts": 0.0,
+    "sweets": 0.0,
+    "fats": 0.0
+  },
+  "compliance": {
+    "bp": true,
+    "diabetes": true,
+    "biliary": true
+  },
+  "_meta": {
+    "unknown_ingredients": [
+      "2tbsp. olive oil",
+      "1 aubergine (sliced)",
+      "2 garlic cloves (crushed)",
+      "1can chopped tomatoes",
+      "1tbsp. harissa paste",
+      "225g block halloumi (sliced)",
+      "To garnish: fresh basil",
+      "Serving suggestion: couscous"
+    ],
+    "unknown_nutrients": [],
+    "parsing_warnings": [
+      "ingredient[0]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[1]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[2]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[3]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[4]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[5]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[6]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[7]: missing: name or name_normalized or ingredient or food_name"
+    ],
+    "inference_notes": [
+      "servings: 4"
+    ],
+    "suspicious": true
+  }
+}
