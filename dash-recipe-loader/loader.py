@@ -146,20 +146,20 @@ def infer_category(title: str, ingredient_names: List[str]) -> str:
             return cat
     return "high-protein"
 
-def build_component(source_url: str, parsed_html: dict, llm_parsed: List[dict]) -> dict:
+def build_component(source_url: str, parsed_html: dict, llm_parsed: List[dict], servings: int = 2) -> dict:
     """
     Build Component from parsed HTML + LLM-parsed ingredients.
 
     Args:
         source_url: URL of the recipe
         parsed_html: {title, ingredients[], servings} from HTML parsing
-        llm_parsed: list of {name_normalized, amount_grams, dash_group, nutrients, _status} from LLM
+        llm_parsed: list of {name, amount_grams, dash_group, nutrients, _status} from LLM
+        servings: number of servings (default 2)
     """
     meta_warnings = []; unknown_ingredients = []; suspicious = False
 
     title = parsed_html.get("title") or "Unknown Recipe"
     raw_ingredients = parsed_html.get("ingredients") or []
-    servings = parsed_html.get("servings") or 2
 
     # Build ingredients list
     ingredients = []
@@ -179,7 +179,6 @@ def build_component(source_url: str, parsed_html: dict, llm_parsed: List[dict]) 
             p.get("food_name") or ""
         )
         amount_grams = p.get("amount_grams")
-        # If amount_grams is a list like [40] or None, normalize
         if isinstance(amount_grams, list):
             amount_grams = amount_grams[0] if amount_grams else None
         dash_group = p.get("dash_group")
@@ -188,7 +187,7 @@ def build_component(source_url: str, parsed_html: dict, llm_parsed: List[dict]) 
         ing = {
             "original_text": raw_text,
             "parsed_amount": p.get("amount_parsed", ""),
-            "amount_grams": p.get("amount_grams"),
+            "amount_grams": amount_grams,
             "name_normalized": name_norm,
             "fdc_id": p.get("fdc_id"),
             "food_name": name_norm,
@@ -294,6 +293,7 @@ def main():
     ap.add_argument("--html", default=None)
     ap.add_argument("--url", default=None)
     ap.add_argument("--parsed-json", default=None)  # LLM output as JSON string
+    ap.add_argument("--servings", type=int, default=None)  # override servings
     ap.add_argument("--json", action="store_true")
     ap.add_argument("--help", action="store_true")
     args, _ = ap.parse_known_args()
@@ -323,7 +323,8 @@ def main():
         llm_parsed = []
 
     # Step 3: Build Component
-    component = build_component(source_url, parsed, llm_parsed)
+    servings = args.servings if args.servings else parsed.get("servings") or 2
+    component = build_component(source_url, parsed, llm_parsed, servings=servings)
 
     # Step 4: Save
     saved = save_component(component)
