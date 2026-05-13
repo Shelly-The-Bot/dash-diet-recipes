@@ -1,0 +1,42 @@
+{
+  "name": "Parsed Recipe",
+  "category": "high-protein",
+  "tags": [],
+  "servings": 2,
+  "source_url": "https://www.myprotein.com/thezone/recipe/salmon-poke-bowl-recipe-high-protein-meal-prep/",
+  "raw_ingredients": [],
+  "ingredients": [],
+  "totals_per_serving": {
+    "kcal": 0.0,
+    "protein_g": 0.0,
+    "carbs_g": 0.0,
+    "fat_g": 0.0,
+    "sodium_mg": 0.0,
+    "fiber_g": 0.0,
+    "gl": null
+  },
+  "dash_servings_per_serving": {
+    "grains": 0.0,
+    "meats": 0.0,
+    "vegetables": 0.0,
+    "fruits": 0.0,
+    "dairy": 0.0,
+    "nuts": 0.0,
+    "sweets": 0.0,
+    "fats": 0.0
+  },
+  "compliance": {
+    "bp": true,
+    "diabetes": true,
+    "biliary": true
+  },
+  "_meta": {
+    "unknown_ingredients": [],
+    "unknown_nutrients": [],
+    "parsing_warnings": [],
+    "inference_notes": [
+      "servings: 2"
+    ],
+    "suspicious": false
+  }
+}
