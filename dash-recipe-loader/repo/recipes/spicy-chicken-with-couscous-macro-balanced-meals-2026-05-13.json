@@ -2,7 +2,7 @@
   "name": "Spicy Chicken With Couscous | Macro-Balanced Meals",
   "category": "high-protein",
   "tags": [],
-  "servings": 2,
+  "servings": 4,
   "source_url": "https://www.myprotein.com/thezone/recipe/spicy-chicken-with-couscous-macro-balanced-meals/",
   "raw_ingredients": [
     "1 tbsp. curry paste",
@@ -171,14 +171,14 @@
     "gl": null
   },
   "dash_servings_per_serving": {
-    "grains": 0.5,
-    "meats": 0.5,
-    "vegetables": 1.0,
+    "grains": 0.25,
+    "meats": 0.25,
+    "vegetables": 0.5,
     "fruits": 0.0,
     "dairy": 0.0,
     "nuts": 0.0,
-    "sweets": 0.5,
-    "fats": 1.0
+    "sweets": 0.25,
+    "fats": 0.5
   },
   "compliance": {
     "bp": true,
@@ -201,7 +201,7 @@
       "ingredient[7]: missing: name or name_normalized"
     ],
     "inference_notes": [
-      "servings: 2"
+      "servings: 4"
     ],
     "suspicious": true
   }
