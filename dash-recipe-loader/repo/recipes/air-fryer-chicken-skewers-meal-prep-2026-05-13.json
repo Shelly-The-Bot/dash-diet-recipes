@@ -19,110 +19,173 @@
     {
       "original_text": "1 tbsp sriracha",
       "parsed_amount": "",
-      "amount_grams": null,
-      "name_normalized": "",
+      "amount_grams": 16.0,
+      "name_normalized": "sriracha sauce",
       "fdc_id": null,
-      "food_name": "",
-      "dash_group": null,
-      "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
+      "food_name": "sriracha sauce",
+      "dash_group": "fats",
+      "match_confidence": 0.9,
+      "nutrients": {
+        "kcal": 6,
+        "protein_g": 0.2,
+        "carbs_g": 1.2,
+        "fat_g": 0.1,
+        "sodium_mg": 259,
+        "fiber_g": 0.1
+      },
+      "_status": "known"
     },
     {
       "original_text": "40g honey",
       "parsed_amount": "",
-      "amount_grams": null,
-      "name_normalized": "",
+      "amount_grams": 40.0,
+      "name_normalized": "honey",
       "fdc_id": null,
-      "food_name": "",
-      "dash_group": null,
-      "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
+      "food_name": "honey",
+      "dash_group": "sweets",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 129,
+        "protein_g": 0.1,
+        "carbs_g": 33.0,
+        "fat_g": 0.0,
+        "sodium_mg": 2.0,
+        "fiber_g": 0.0
+      },
+      "_status": "known"
     },
     {
       "original_text": "Juice of half a lime",
       "parsed_amount": "",
-      "amount_grams": null,
-      "name_normalized": "",
+      "amount_grams": 25.0,
+      "name_normalized": "lime juice",
       "fdc_id": null,
-      "food_name": "",
-      "dash_group": null,
-      "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
+      "food_name": "lime juice",
+      "dash_group": "fruits",
+      "match_confidence": 0.9,
+      "nutrients": {
+        "kcal": 8,
+        "protein_g": 0.1,
+        "carbs_g": 2.7,
+        "fat_g": 0.0,
+        "sodium_mg": 1.0,
+        "fiber_g": 0.2
+      },
+      "_status": "known"
     },
     {
       "original_text": "2 tbsp soy sauce",
       "parsed_amount": "",
-      "amount_grams": null,
-      "name_normalized": "",
+      "amount_grams": 32.0,
+      "name_normalized": "soy sauce",
       "fdc_id": null,
-      "food_name": "",
-      "dash_group": null,
-      "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
+      "food_name": "soy sauce",
+      "dash_group": "vegetables",
+      "match_confidence": 0.9,
+      "nutrients": {
+        "kcal": 13,
+        "protein_g": 1.3,
+        "carbs_g": 1.0,
+        "fat_g": 0.0,
+        "sodium_mg": 1146,
+        "fiber_g": 0.2
+      },
+      "_status": "known"
     },
     {
       "original_text": "Pinch of salt",
       "parsed_amount": "",
-      "amount_grams": null,
-      "name_normalized": "",
+      "amount_grams": 0.5,
+      "name_normalized": "salt",
       "fdc_id": null,
-      "food_name": "",
+      "food_name": "salt",
       "dash_group": null,
-      "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
+      "match_confidence": 0.8,
+      "nutrients": {
+        "kcal": 0,
+        "protein_g": 0.0,
+        "carbs_g": 0.0,
+        "fat_g": 0.0,
+        "sodium_mg": 194,
+        "fiber_g": 0.0
+      },
+      "_status": "uncertain"
     },
     {
       "original_text": "2 garlic cloves (crushed)",
       "parsed_amount": "",
-      "amount_grams": null,
-      "name_normalized": "",
+      "amount_grams": 6.0,
+      "name_normalized": "garlic",
       "fdc_id": null,
-      "food_name": "",
-      "dash_group": null,
-      "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
+      "food_name": "garlic",
+      "dash_group": "vegetables",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 9,
+        "protein_g": 0.4,
+        "carbs_g": 2.0,
+        "fat_g": 0.0,
+        "sodium_mg": 1.2,
+        "fiber_g": 0.2
+      },
+      "_status": "known"
     },
     {
       "original_text": "1cm piece of fresh ginger (finely chopped or grated)",
       "parsed_amount": "",
-      "amount_grams": null,
-      "name_normalized": "",
+      "amount_grams": 3.0,
+      "name_normalized": "fresh ginger",
       "fdc_id": null,
-      "food_name": "",
-      "dash_group": null,
-      "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
+      "food_name": "fresh ginger",
+      "dash_group": "vegetables",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 2,
+        "protein_g": 0.1,
+        "carbs_g": 0.4,
+        "fat_g": 0.0,
+        "sodium_mg": 0.3,
+        "fiber_g": 0.1
+      },
+      "_status": "known"
     },
     {
       "original_text": "400g chicken (cubed)",
       "parsed_amount": "",
-      "amount_grams": null,
-      "name_normalized": "",
+      "amount_grams": 400.0,
+      "name_normalized": "chicken breast",
       "fdc_id": null,
-      "food_name": "",
-      "dash_group": null,
-      "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
+      "food_name": "chicken breast",
+      "dash_group": "meats",
+      "match_confidence": 0.9,
+      "nutrients": {
+        "kcal": 660,
+        "protein_g": 124.0,
+        "carbs_g": 0.0,
+        "fat_g": 13.2,
+        "sodium_mg": 520,
+        "fiber_g": 0.0
+      },
+      "_status": "known"
     },
     {
       "original_text": "1 red onion",
       "parsed_amount": "",
-      "amount_grams": null,
-      "name_normalized": "",
+      "amount_grams": 110.0,
+      "name_normalized": "red onion",
       "fdc_id": null,
-      "food_name": "",
-      "dash_group": null,
-      "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
+      "food_name": "red onion",
+      "dash_group": "vegetables",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 44,
+        "protein_g": 1.2,
+        "carbs_g": 10.3,
+        "fat_g": 0.1,
+        "sodium_mg": 4.0,
+        "fiber_g": 1.9
+      },
+      "_status": "known"
     }
   ],
   "totals_per_serving": {
@@ -136,13 +199,13 @@
   },
   "dash_servings_per_serving": {
     "grains": 0.0,
-    "meats": 0.0,
-    "vegetables": 0.0,
-    "fruits": 0.0,
+    "meats": 0.33,
+    "vegetables": 1.33,
+    "fruits": 0.33,
     "dairy": 0.0,
     "nuts": 0.0,
-    "sweets": 0.0,
-    "fats": 0.0
+    "sweets": 0.33,
+    "fats": 0.33
   },
   "compliance": {
     "bp": true,
@@ -151,28 +214,10 @@
   },
   "_meta": {
     "unknown_ingredients": [
-      "1 tbsp sriracha",
-      "40g honey",
-      "Juice of half a lime",
-      "2 tbsp soy sauce",
-      "Pinch of salt",
-      "2 garlic cloves (crushed)",
-      "1cm piece of fresh ginger (finely chopped or grated)",
-      "400g chicken (cubed)",
-      "1 red onion"
+      "Pinch of salt"
     ],
     "unknown_nutrients": [],
-    "parsing_warnings": [
-      "ingredient[0]: missing: name or name_normalized or ingredient or food_name",
-      "ingredient[1]: missing: name or name_normalized or ingredient or food_name",
-      "ingredient[2]: missing: name or name_normalized or ingredient or food_name",
-      "ingredient[3]: missing: name or name_normalized or ingredient or food_name",
-      "ingredient[4]: missing: name or name_normalized or ingredient or food_name",
-      "ingredient[5]: missing: name or name_normalized or ingredient or food_name",
-      "ingredient[6]: missing: name or name_normalized or ingredient or food_name",
-      "ingredient[7]: missing: name or name_normalized or ingredient or food_name",
-      "ingredient[8]: missing: name or name_normalized or ingredient or food_name"
-    ],
+    "parsing_warnings": [],
     "inference_notes": [
       "servings: 3"
     ],
