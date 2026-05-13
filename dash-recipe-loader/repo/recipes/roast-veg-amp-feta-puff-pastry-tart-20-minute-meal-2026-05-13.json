@@ -1,0 +1,281 @@
+{
+  "name": "Roast Veg &amp; Feta Puff Pastry Tart | 20-Minute Meal",
+  "category": "dinner",
+  "tags": [],
+  "servings": 4,
+  "source_url": "https://www.myprotein.com/thezone/recipe/roast-veg-feta-pastry-tart/",
+  "raw_ingredients": [
+    "1 sheet ready-to-roll puff pastry",
+    "3 tbsp. green pesto",
+    "1 courgette",
+    "1 red onion",
+    "2 peppers",
+    "Handful cherry tomatoes",
+    "100g low-fat feta cheese",
+    "Pinch chilli flakes",
+    "Preheat the oven to 180C.",
+    "Roll out the pastry onto a lined baking tray. Fold up the edges to create a 1-inch border, then spread the pesto evenly in the middle.",
+    "Layer the sliced vegetables onto the pastry, spacing them out evenly. Then crumble the feta over the top.",
+    "Sprinkle with salt, black pepper, and chilli flakes (if using). Bake in the oven for 20 minutes or so until the pastry is golden and crisp.",
+    "Finish with fresh parsley, slice into quarters and serve."
+  ],
+  "ingredients": [
+    {
+      "original_text": "1 sheet ready-to-roll puff pastry",
+      "parsed_amount": "",
+      "amount_grams": 320,
+      "name_normalized": "puff pastry",
+      "fdc_id": null,
+      "food_name": "puff pastry",
+      "dash_group": "grains",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 260,
+        "protein_g": 5,
+        "carbs_g": 30,
+        "fat_g": 14,
+        "sodium_mg": 200,
+        "fiber_g": 2
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "3 tbsp. green pesto",
+      "parsed_amount": "",
+      "amount_grams": 45,
+      "name_normalized": "green pesto",
+      "fdc_id": null,
+      "food_name": "green pesto",
+      "dash_group": "fats",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 140,
+        "protein_g": 3,
+        "carbs_g": 2,
+        "fat_g": 14,
+        "sodium_mg": 250,
+        "fiber_g": 0
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "1 courgette",
+      "parsed_amount": "",
+      "amount_grams": 200,
+      "name_normalized": "courgette",
+      "fdc_id": null,
+      "food_name": "courgette",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 34,
+        "protein_g": 2.4,
+        "carbs_g": 6,
+        "fat_g": 0.6,
+        "sodium_mg": 8,
+        "fiber_g": 2
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "1 red onion",
+      "parsed_amount": "",
+      "amount_grams": 150,
+      "name_normalized": "red onion",
+      "fdc_id": null,
+      "food_name": "red onion",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 60,
+        "protein_g": 1.5,
+        "carbs_g": 14,
+        "fat_g": 0.1,
+        "sodium_mg": 6,
+        "fiber_g": 2.5
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "2 peppers",
+      "parsed_amount": "",
+      "amount_grams": 200,
+      "name_normalized": "bell pepper",
+      "fdc_id": null,
+      "food_name": "bell pepper",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 52,
+        "protein_g": 1.6,
+        "carbs_g": 12,
+        "fat_g": 0.4,
+        "sodium_mg": 6,
+        "fiber_g": 4
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "Handful cherry tomatoes",
+      "parsed_amount": "",
+      "amount_grams": 100,
+      "name_normalized": "cherry tomatoes",
+      "fdc_id": null,
+      "food_name": "cherry tomatoes",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 18,
+        "protein_g": 0.9,
+        "carbs_g": 3.9,
+        "fat_g": 0.2,
+        "sodium_mg": 5,
+        "fiber_g": 1.2
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "100g low-fat feta cheese",
+      "parsed_amount": "",
+      "amount_grams": 100,
+      "name_normalized": "feta cheese",
+      "fdc_id": null,
+      "food_name": "feta cheese",
+      "dash_group": "dairy",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 144,
+        "protein_g": 11,
+        "carbs_g": 4,
+        "fat_g": 9,
+        "sodium_mg": 600,
+        "fiber_g": 0
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "Pinch chilli flakes",
+      "parsed_amount": "",
+      "amount_grams": 1,
+      "name_normalized": "chilli flakes",
+      "fdc_id": null,
+      "food_name": "chilli flakes",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 3,
+        "protein_g": 0.1,
+        "carbs_g": 0.5,
+        "fat_g": 0.1,
+        "sodium_mg": 1,
+        "fiber_g": 0.3
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "Preheat the oven to 180C.",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "Roll out the pastry onto a lined baking tray. Fold up the edges to create a 1-inch border, then spread the pesto evenly in the middle.",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "Layer the sliced vegetables onto the pastry, spacing them out evenly. Then crumble the feta over the top.",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "Sprinkle with salt, black pepper, and chilli flakes (if using). Bake in the oven for 20 minutes or so until the pastry is golden and crisp.",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "Finish with fresh parsley, slice into quarters and serve.",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    }
+  ],
+  "totals_per_serving": {
+    "kcal": 0.0,
+    "protein_g": 0.0,
+    "carbs_g": 0.0,
+    "fat_g": 0.0,
+    "sodium_mg": 0.0,
+    "fiber_g": 0.0,
+    "gl": null
+  },
+  "dash_servings_per_serving": {
+    "grains": 0.25,
+    "meats": 0.0,
+    "vegetables": 1.25,
+    "fruits": 0.0,
+    "dairy": 0.25,
+    "nuts": 0.0,
+    "sweets": 0.0,
+    "fats": 0.25
+  },
+  "compliance": {
+    "bp": true,
+    "diabetes": true,
+    "biliary": true
+  },
+  "_meta": {
+    "unknown_ingredients": [
+      "Preheat the oven to 180C.",
+      "Roll out the pastry onto a lined baking tray. Fold up the edges to create a 1-inch border, then spread the pesto evenly in the middle.",
+      "Layer the sliced vegetables onto the pastry, spacing them out evenly. Then crumble the feta over the top.",
+      "Sprinkle with salt, black pepper, and chilli flakes (if using). Bake in the oven for 20 minutes or so until the pastry is golden and crisp.",
+      "Finish with fresh parsley, slice into quarters and serve."
+    ],
+    "unknown_nutrients": [],
+    "parsing_warnings": [
+      "ingredient[8]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[9]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[10]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[11]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[12]: missing: name or name_normalized or ingredient or food_name"
+    ],
+    "inference_notes": [
+      "servings: 4"
+    ],
+    "suspicious": true
+  }
+}
