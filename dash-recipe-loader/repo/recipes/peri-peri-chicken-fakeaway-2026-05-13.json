@@ -1,0 +1,75 @@
+{
+  "name": "Peri Peri Chicken Fakeaway",
+  "category": "high-protein",
+  "tags": [],
+  "servings": 4,
+  "source_url": "https://www.myprotein.com/thezone/recipe/peri-peri-chicken-fakeaway/",
+  "raw_ingredients": [
+    "2 sweet red peppers (chopped)",
+    "1 red onion (chopped)",
+    "1 lemon (halved)",
+    "4 garlic cloves",
+    "3 tbsp. extra virgin olive oil",
+    "1 handful of basil (chopped)",
+    "1 tbsp. oregano",
+    "1 tbsp. paprika",
+    "Salt & pepper to taste",
+    "2 Bird's Eye chillies (any red chilli is fine)",
+    "4 chicken breasts (butterflied)",
+    "1kg Maris Piper potatoes (cut into chips)",
+    "2 tbsp. coconut oil (melted)",
+    "1 tsp. paprika",
+    "1 tsp. garlic granules",
+    "½ tsp. chilli powder",
+    "Salt & pepper to taste",
+    "4 corn on the cob",
+    "Side salad"
+  ],
+  "ingredients": [],
+  "method": [
+    "Preheat the oven to 180°C/350°F.",
+    "Add the red peppers, red onion, lemon, and garlic (wrapped in tin foil) to a baking dish. Coat in 1 tablespoon of olive oil, season well, and bake for 30 minutes.",
+    "Once baked, transfer to a blender along with the remaining 2 tablespoons of olive oil, basil, oregano, paprika, chilli, salt and pepper and blitz until smooth.",
+    "Add the butterflied chicken breasts to a large bowl and cover with the Peri Peri sauce. Massage the sauce into the chicken, cover the bowl and leave to marinate for at least 3 hours (preferably overnight).",
+    "Preheat the oven to 200°C/400°F.",
+    "Peel & cut your potatoes into chips and place them into a large saucepan of boiling water to parboil for 10 minutes. Then, drain and transfer to a baking tray.",
+    "Add the melted coconut oil, mixing well to ensure all chips are coated, and then bake for 45 minutes or until the chips are golden and crispy.",
+    "When the chips have been in for 30 minutes, heat a non-stick pan or cast iron griddle and add the marinated chicken breasts. Cook for roughly 5 minutes on each side, making sure the chicken is entirely cooked through and not pink in the middle.",
+    "Once the chips are cooked, transfer to a large bowl and add the paprika, garlic granules, chilli powder and season to taste. Mix all the seasonings well so that your chips are evenly coated.",
+    "Serve the Peri Peri chicken and Peri salted chips with any other sides of your choice (Niall's gone for a corn on the cob and side salad) — then enjoy!"
+  ],
+  "totals_per_serving": {
+    "kcal": 0.0,
+    "protein_g": 0.0,
+    "carbs_g": 0.0,
+    "fat_g": 0.0,
+    "sodium_mg": 0.0,
+    "fiber_g": 0.0,
+    "gl": null
+  },
+  "dash_servings_per_serving": {
+    "grains": 0.0,
+    "meats": 0.0,
+    "vegetables": 0.0,
+    "fruits": 0.0,
+    "dairy": 0.0,
+    "nuts": 0.0,
+    "sweets": 0.0,
+    "fats": 0.0
+  },
+  "compliance": {
+    "bp": true,
+    "diabetes": true,
+    "biliary": true
+  },
+  "_meta": {
+    "unknown_ingredients": [],
+    "unknown_nutrients": [],
+    "parsing_warnings": [],
+    "inference_notes": [
+      "servings: 4",
+      "Under 700kcal, 42g protein per serving"
+    ],
+    "suspicious": false
+  }
+}
