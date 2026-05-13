@@ -1,0 +1,238 @@
+{
+  "name": "Air Fryer Buffalo Chicken Wings",
+  "category": "dinner",
+  "tags": [
+    "high-protein",
+    "air-fryer",
+    "chicken",
+    "buffalo"
+  ],
+  "servings": 3,
+  "source_url": "https://www.myprotein.com/thezone/recipe/air-fryer-buffalo-chicken-wings/",
+  "raw_ingredients": [
+    "500g chicken wings (roughly 12)",
+    "Low-calorie cooking spray",
+    "1/2tbsp. baking powder",
+    "1 tsp. onion powder",
+    "1 tsp. garlic powder",
+    "1 tsp. salt",
+    "1.5tbsp. oil",
+    "2tbsp. honey",
+    "2tbsp. buffalo sauce"
+  ],
+  "ingredients": [
+    {
+      "original_text": "500g chicken wings (roughly 12)",
+      "parsed_amount": "500g",
+      "amount_grams": 500.0,
+      "name_normalized": "chicken wings",
+      "fdc_id": null,
+      "food_name": "chicken wings",
+      "dash_group": "meats",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 1015,
+        "protein_g": 151.5,
+        "carbs_g": 0.0,
+        "fat_g": 42.0,
+        "sodium_mg": 440,
+        "fiber_g": 0.0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "Low-calorie cooking spray",
+      "parsed_amount": "to taste",
+      "amount_grams": 5.0,
+      "name_normalized": "cooking spray",
+      "fdc_id": null,
+      "food_name": "cooking spray",
+      "dash_group": "fats",
+      "match_confidence": 0.7,
+      "nutrients": {
+        "kcal": 3,
+        "protein_g": 0.0,
+        "carbs_g": 0.0,
+        "fat_g": 0.3,
+        "sodium_mg": 0,
+        "fiber_g": 0.0
+      },
+      "_status": "uncertain"
+    },
+    {
+      "original_text": "1/2tbsp. baking powder",
+      "parsed_amount": "0.5 tbsp",
+      "amount_grams": 2.5,
+      "name_normalized": "baking powder",
+      "fdc_id": null,
+      "food_name": "baking powder",
+      "dash_group": null,
+      "match_confidence": 0.5,
+      "nutrients": {
+        "kcal": 1,
+        "protein_g": 0.0,
+        "carbs_g": 0.6,
+        "fat_g": 0.0,
+        "sodium_mg": 636,
+        "fiber_g": 0.0
+      },
+      "_status": "uncertain"
+    },
+    {
+      "original_text": "1 tsp. onion powder",
+      "parsed_amount": "1 tsp",
+      "amount_grams": 3.0,
+      "name_normalized": "onion powder",
+      "fdc_id": null,
+      "food_name": "onion powder",
+      "dash_group": null,
+      "match_confidence": 0.5,
+      "nutrients": {
+        "kcal": 8,
+        "protein_g": 0.4,
+        "carbs_g": 1.8,
+        "fat_g": 0.0,
+        "sodium_mg": 2,
+        "fiber_g": 0.1
+      },
+      "_status": "uncertain"
+    },
+    {
+      "original_text": "1 tsp. garlic powder",
+      "parsed_amount": "1 tsp",
+      "amount_grams": 3.0,
+      "name_normalized": "garlic powder",
+      "fdc_id": null,
+      "food_name": "garlic powder",
+      "dash_group": null,
+      "match_confidence": 0.5,
+      "nutrients": {
+        "kcal": 10,
+        "protein_g": 0.5,
+        "carbs_g": 2.2,
+        "fat_g": 0.0,
+        "sodium_mg": 2,
+        "fiber_g": 0.3
+      },
+      "_status": "uncertain"
+    },
+    {
+      "original_text": "1 tsp. salt",
+      "parsed_amount": "1 tsp",
+      "amount_grams": 6.0,
+      "name_normalized": "salt",
+      "fdc_id": null,
+      "food_name": "salt",
+      "dash_group": null,
+      "match_confidence": 0.8,
+      "nutrients": {
+        "kcal": 0,
+        "protein_g": 0.0,
+        "carbs_g": 0.0,
+        "fat_g": 0.0,
+        "sodium_mg": 2325,
+        "fiber_g": 0.0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "1.5tbsp. oil",
+      "parsed_amount": "1.5 tbsp",
+      "amount_grams": 20.0,
+      "name_normalized": "vegetable oil",
+      "fdc_id": null,
+      "food_name": "vegetable oil",
+      "dash_group": "fats",
+      "match_confidence": 0.7,
+      "nutrients": {
+        "kcal": 176,
+        "protein_g": 0.0,
+        "carbs_g": 0.0,
+        "fat_g": 20.0,
+        "sodium_mg": 0,
+        "fiber_g": 0.0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "2tbsp. honey",
+      "parsed_amount": "2 tbsp",
+      "amount_grams": 42.0,
+      "name_normalized": "honey",
+      "fdc_id": null,
+      "food_name": "honey",
+      "dash_group": "sweets",
+      "match_confidence": 0.9,
+      "nutrients": {
+        "kcal": 128,
+        "protein_g": 0.1,
+        "carbs_g": 34.6,
+        "fat_g": 0.0,
+        "sodium_mg": 2,
+        "fiber_g": 0.0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "2tbsp. buffalo sauce",
+      "parsed_amount": "2 tbsp",
+      "amount_grams": 30.0,
+      "name_normalized": "buffalo sauce",
+      "fdc_id": null,
+      "food_name": "buffalo sauce",
+      "dash_group": "fats",
+      "match_confidence": 0.6,
+      "nutrients": {
+        "kcal": 15,
+        "protein_g": 0.1,
+        "carbs_g": 1.0,
+        "fat_g": 1.2,
+        "sodium_mg": 890,
+        "fiber_g": 0.0
+      },
+      "_status": "uncertain"
+    }
+  ],
+  "totals_per_serving": {
+    "kcal": 243.3,
+    "protein_g": 20.2,
+    "carbs_g": 5.4,
+    "fat_g": 10.6,
+    "sodium_mg": 716.3,
+    "fiber_g": 0.05,
+    "gl": null
+  },
+  "dash_servings_per_serving": {
+    "grains": 0.0,
+    "meats": 1.33,
+    "vegetables": 0.0,
+    "fruits": 0.0,
+    "dairy": 0.0,
+    "nuts": 0.0,
+    "sweets": 0.47,
+    "fats": 0.37
+  },
+  "compliance": {
+    "bp": false,
+    "diabetes": false,
+    "biliary": null
+  },
+  "_meta": {
+    "unknown_ingredients": [
+      "baking powder",
+      "onion powder",
+      "garlic powder",
+      "buffalo sauce"
+    ],
+    "unknown_nutrients": [],
+    "parsing_warnings": [
+      "Sodium is elevated due to salt and buffalo sauce - not ideal for high BP",
+      "Contains honey - not ideal for prediabetes/diabetes"
+    ],
+    "inference_notes": [
+      "Nutrients calculated per 100g values scaled to ingredient amounts",
+      "Buffalo sauce is high sodium - recipe may not be suitable for DASH high BP condition"
+    ],
+    "suspicious": true
+  }
+}
