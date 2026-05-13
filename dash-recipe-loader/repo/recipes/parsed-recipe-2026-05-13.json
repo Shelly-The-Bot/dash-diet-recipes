@@ -2,7 +2,7 @@
   "name": "Parsed Recipe",
   "category": "high-protein",
   "tags": [],
-  "servings": 3,
+  "servings": 2,
   "source_url": "https://www.myprotein.com/thezone/recipe/buffalo-chicken-3-day-chicken-meal-prep/",
   "raw_ingredients": [],
   "ingredients": [],
@@ -35,7 +35,7 @@
     "unknown_nutrients": [],
     "parsing_warnings": [],
     "inference_notes": [
-      "servings: 3"
+      "servings: 2"
     ],
     "suspicious": false
   }
