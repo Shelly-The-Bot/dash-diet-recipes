@@ -2,8 +2,8 @@
   "name": "Parsed Recipe",
   "category": "high-protein",
   "tags": [],
-  "servings": 4,
-  "source_url": "https://www.myprotein.com/thezone/recipe/vegan-lentil-bolognese-meal-prep-recipe/",
+  "servings": 8,
+  "source_url": "https://www.myprotein.com/thezone/recipe/fudgey-chocolate-protein-brownies/",
   "raw_ingredients": [],
   "ingredients": [],
   "totals_per_serving": {
@@ -35,7 +35,7 @@
     "unknown_nutrients": [],
     "parsing_warnings": [],
     "inference_notes": [
-      "servings: 4"
+      "servings: 8"
     ],
     "suspicious": false
   }
