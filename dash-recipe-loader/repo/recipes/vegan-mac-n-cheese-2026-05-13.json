@@ -1,0 +1,275 @@
+{
+  "name": "Vegan Mac N Cheese",
+  "category": "high-protein",
+  "tags": [],
+  "servings": 4,
+  "source_url": "https://www.myprotein.com/thezone/recipe/vegan-mac-n-cheese/",
+  "raw_ingredients": [
+    "250g macaroni",
+    "Drizzle olive oil",
+    "1/2 white onion",
+    "3 garlic cloves",
+    "130g raw cashews",
+    "1 tsp. chilli powder",
+    "1/2 tsp. cumin",
+    "3tbsp. nutritional yeast",
+    "Pinch salt",
+    "1litre vegetable stock",
+    "3tbsp. toasted breadcrumbs"
+  ],
+  "ingredients": [
+    {
+      "original_text": "250g macaroni",
+      "parsed_amount": "",
+      "amount_grams": 250,
+      "name_normalized": "macaroni",
+      "fdc_id": null,
+      "food_name": "macaroni",
+      "dash_group": "grains",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 350,
+        "protein_g": 12.5,
+        "carbs_g": 70,
+        "fat_g": 1.5,
+        "sodium_mg": 5,
+        "fiber_g": 2.5,
+        "gl": 40
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "Drizzle olive oil",
+      "parsed_amount": "",
+      "amount_grams": 10,
+      "name_normalized": "olive oil",
+      "fdc_id": null,
+      "food_name": "olive oil",
+      "dash_group": "fats",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 88,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 10,
+        "sodium_mg": 0,
+        "fiber_g": 0,
+        "gl": 0
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "1/2 white onion",
+      "parsed_amount": "",
+      "amount_grams": 75,
+      "name_normalized": "onion",
+      "fdc_id": null,
+      "food_name": "onion",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 30,
+        "protein_g": 0.8,
+        "carbs_g": 7,
+        "fat_g": 0.1,
+        "sodium_mg": 3,
+        "fiber_g": 1.5,
+        "gl": 3
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "3 garlic cloves",
+      "parsed_amount": "",
+      "amount_grams": 9,
+      "name_normalized": "garlic",
+      "fdc_id": null,
+      "food_name": "garlic",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 13,
+        "protein_g": 0.6,
+        "carbs_g": 3,
+        "fat_g": 0,
+        "sodium_mg": 2,
+        "fiber_g": 0.2,
+        "gl": 1
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "130g raw cashews",
+      "parsed_amount": "",
+      "amount_grams": 130,
+      "name_normalized": "cashews",
+      "fdc_id": null,
+      "food_name": "cashews",
+      "dash_group": "nuts",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 720,
+        "protein_g": 24,
+        "carbs_g": 40,
+        "fat_g": 56,
+        "sodium_mg": 10,
+        "fiber_g": 5,
+        "gl": 10
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "1 tsp. chilli powder",
+      "parsed_amount": "",
+      "amount_grams": 5,
+      "name_normalized": "chilli powder",
+      "fdc_id": null,
+      "food_name": "chilli powder",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 15,
+        "protein_g": 0.6,
+        "carbs_g": 3,
+        "fat_g": 0.3,
+        "sodium_mg": 2,
+        "fiber_g": 1.5,
+        "gl": 2
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "1/2 tsp. cumin",
+      "parsed_amount": "",
+      "amount_grams": 2,
+      "name_normalized": "cumin",
+      "fdc_id": null,
+      "food_name": "cumin",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 8,
+        "protein_g": 0.4,
+        "carbs_g": 1,
+        "fat_g": 0.5,
+        "sodium_mg": 4,
+        "fiber_g": 0.6,
+        "gl": 0
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "3tbsp. nutritional yeast",
+      "parsed_amount": "",
+      "amount_grams": 15,
+      "name_normalized": "nutritional yeast",
+      "fdc_id": null,
+      "food_name": "nutritional yeast",
+      "dash_group": "dairy",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 45,
+        "protein_g": 8,
+        "carbs_g": 5,
+        "fat_g": 0.5,
+        "sodium_mg": 5,
+        "fiber_g": 2,
+        "gl": 2
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "Pinch salt",
+      "parsed_amount": "",
+      "amount_grams": 1,
+      "name_normalized": "salt",
+      "fdc_id": null,
+      "food_name": "salt",
+      "dash_group": "sweets",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 0,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 0,
+        "sodium_mg": 2300,
+        "fiber_g": 0,
+        "gl": 0
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "1litre vegetable stock",
+      "parsed_amount": "",
+      "amount_grams": 1000,
+      "name_normalized": "vegetable stock",
+      "fdc_id": null,
+      "food_name": "vegetable stock",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 150,
+        "protein_g": 3,
+        "carbs_g": 30,
+        "fat_g": 1,
+        "sodium_mg": 1800,
+        "fiber_g": 2,
+        "gl": 10
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "3tbsp. toasted breadcrumbs",
+      "parsed_amount": "",
+      "amount_grams": 24,
+      "name_normalized": "breadcrumbs",
+      "fdc_id": null,
+      "food_name": "breadcrumbs",
+      "dash_group": "grains",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 90,
+        "protein_g": 3,
+        "carbs_g": 18,
+        "fat_g": 1,
+        "sodium_mg": 150,
+        "fiber_g": 1,
+        "gl": 10
+      },
+      "_status": "matched"
+    }
+  ],
+  "totals_per_serving": {
+    "kcal": 0.0,
+    "protein_g": 0.0,
+    "carbs_g": 0.0,
+    "fat_g": 0.0,
+    "sodium_mg": 0.0,
+    "fiber_g": 0.0,
+    "gl": null
+  },
+  "dash_servings_per_serving": {
+    "grains": 0.5,
+    "meats": 0.0,
+    "vegetables": 1.25,
+    "fruits": 0.0,
+    "dairy": 0.25,
+    "nuts": 0.25,
+    "sweets": 0.25,
+    "fats": 0.25
+  },
+  "compliance": {
+    "bp": true,
+    "diabetes": true,
+    "biliary": true
+  },
+  "_meta": {
+    "unknown_ingredients": [],
+    "unknown_nutrients": [],
+    "parsing_warnings": [],
+    "inference_notes": [
+      "servings: 4"
+    ],
+    "suspicious": false
+  }
+}
