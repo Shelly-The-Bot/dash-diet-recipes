@@ -1,0 +1,280 @@
+{
+  "name": "Vegan Lentil Bolognese Meal Prep Recipe",
+  "category": "high-protein",
+  "tags": [],
+  "servings": 4,
+  "source_url": "https://www.myprotein.com/thezone/recipe/vegan-lentil-bolognese-meal-prep-recipe/",
+  "raw_ingredients": [
+    "1tbsp. olive oil",
+    "1 onion (diced)",
+    "2 carrots (diced)",
+    "2 celery stalks (diced)",
+    "3 garlic cloves (minced)",
+    "Seasoning: salt &amp; pepper",
+    "2tbsp. tomato puree",
+    "120g red lentils (dry weight)",
+    "1tin chopped tomatoes",
+    "300ml water",
+    "1 vegetable stock cube",
+    "Serve with: penne pasta &amp; fresh basil"
+  ],
+  "ingredients": [
+    {
+      "original_text": "1tbsp. olive oil",
+      "parsed_amount": "",
+      "amount_grams": 14.0,
+      "name_normalized": "olive oil",
+      "fdc_id": null,
+      "food_name": "olive oil",
+      "dash_group": "fats",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 119,
+        "protein_g": 0.0,
+        "carbs_g": 0.0,
+        "fat_g": 13.5,
+        "sodium_mg": 0.3,
+        "fiber_g": 0.0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "1 onion (diced)",
+      "parsed_amount": "",
+      "amount_grams": 110.0,
+      "name_normalized": "onion",
+      "fdc_id": null,
+      "food_name": "onion",
+      "dash_group": "vegetables",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 44,
+        "protein_g": 1.2,
+        "carbs_g": 10.3,
+        "fat_g": 0.1,
+        "sodium_mg": 4.0,
+        "fiber_g": 1.9
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "2 carrots (diced)",
+      "parsed_amount": "",
+      "amount_grams": 120.0,
+      "name_normalized": "carrot",
+      "fdc_id": null,
+      "food_name": "carrot",
+      "dash_group": "vegetables",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 41,
+        "protein_g": 0.9,
+        "carbs_g": 9.6,
+        "fat_g": 0.2,
+        "sodium_mg": 88.0,
+        "fiber_g": 3.5
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "2 celery stalks (diced)",
+      "parsed_amount": "",
+      "amount_grams": 80.0,
+      "name_normalized": "celery",
+      "fdc_id": null,
+      "food_name": "celery",
+      "dash_group": "vegetables",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 11,
+        "protein_g": 0.5,
+        "carbs_g": 2.4,
+        "fat_g": 0.1,
+        "sodium_mg": 64.0,
+        "fiber_g": 1.6
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "3 garlic cloves (minced)",
+      "parsed_amount": "",
+      "amount_grams": 9.0,
+      "name_normalized": "garlic",
+      "fdc_id": null,
+      "food_name": "garlic",
+      "dash_group": "vegetables",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 13,
+        "protein_g": 0.6,
+        "carbs_g": 3.0,
+        "fat_g": 0.0,
+        "sodium_mg": 1.8,
+        "fiber_g": 0.2
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "Seasoning: salt &amp; pepper",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "salt",
+      "fdc_id": null,
+      "food_name": "salt",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "uncertain"
+    },
+    {
+      "original_text": "2tbsp. tomato puree",
+      "parsed_amount": "",
+      "amount_grams": 30.0,
+      "name_normalized": "tomato puree",
+      "fdc_id": null,
+      "food_name": "tomato puree",
+      "dash_group": "vegetables",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 19,
+        "protein_g": 0.9,
+        "carbs_g": 4.2,
+        "fat_g": 0.1,
+        "sodium_mg": 214.0,
+        "fiber_g": 0.9
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "120g red lentils (dry weight)",
+      "parsed_amount": "",
+      "amount_grams": 120.0,
+      "name_normalized": "red lentils",
+      "fdc_id": null,
+      "food_name": "red lentils",
+      "dash_group": "grains",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 414,
+        "protein_g": 26.4,
+        "carbs_g": 70.8,
+        "fat_g": 1.6,
+        "sodium_mg": 8.0,
+        "fiber_g": 15.6
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "1tin chopped tomatoes",
+      "parsed_amount": "",
+      "amount_grams": 400.0,
+      "name_normalized": "chopped tomatoes",
+      "fdc_id": null,
+      "food_name": "chopped tomatoes",
+      "dash_group": "vegetables",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 72,
+        "protein_g": 3.5,
+        "carbs_g": 15.8,
+        "fat_g": 0.4,
+        "sodium_mg": 392.0,
+        "fiber_g": 5.6
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "300ml water",
+      "parsed_amount": "",
+      "amount_grams": 300.0,
+      "name_normalized": "water",
+      "fdc_id": null,
+      "food_name": "water",
+      "dash_group": null,
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 0,
+        "protein_g": 0.0,
+        "carbs_g": 0.0,
+        "fat_g": 0.0,
+        "sodium_mg": 4.0,
+        "fiber_g": 0.0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "1 vegetable stock cube",
+      "parsed_amount": "",
+      "amount_grams": 10.0,
+      "name_normalized": "vegetable stock cube",
+      "fdc_id": null,
+      "food_name": "vegetable stock cube",
+      "dash_group": "vegetables",
+      "match_confidence": 0.8,
+      "nutrients": {
+        "kcal": 20,
+        "protein_g": 0.0,
+        "carbs_g": 2.0,
+        "fat_g": 1.0,
+        "sodium_mg": 920.0,
+        "fiber_g": 0.0
+      },
+      "_status": "uncertain"
+    },
+    {
+      "original_text": "Serve with: penne pasta &amp; fresh basil",
+      "parsed_amount": "",
+      "amount_grams": 200.0,
+      "name_normalized": "penne pasta",
+      "fdc_id": null,
+      "food_name": "penne pasta",
+      "dash_group": "grains",
+      "match_confidence": 0.9,
+      "nutrients": {
+        "kcal": 280,
+        "protein_g": 10.0,
+        "carbs_g": 56.0,
+        "fat_g": 1.0,
+        "sodium_mg": 2.0,
+        "fiber_g": 2.5
+      },
+      "_status": "uncertain"
+    }
+  ],
+  "totals_per_serving": {
+    "kcal": 0.0,
+    "protein_g": 0.0,
+    "carbs_g": 0.0,
+    "fat_g": 0.0,
+    "sodium_mg": 0.0,
+    "fiber_g": 0.0,
+    "gl": null
+  },
+  "dash_servings_per_serving": {
+    "grains": 0.5,
+    "meats": 0.0,
+    "vegetables": 1.75,
+    "fruits": 0.0,
+    "dairy": 0.0,
+    "nuts": 0.0,
+    "sweets": 0.0,
+    "fats": 0.25
+  },
+  "compliance": {
+    "bp": true,
+    "diabetes": true,
+    "biliary": true
+  },
+  "_meta": {
+    "unknown_ingredients": [
+      "Seasoning: salt &amp; pepper",
+      "300ml water"
+    ],
+    "unknown_nutrients": [],
+    "parsing_warnings": [],
+    "inference_notes": [
+      "servings: 4"
+    ],
+    "suspicious": true
+  }
+}
