@@ -61,12 +61,12 @@ def load_recipe(file_path: Path) -> dict[str, Any]:
         return json.load(f)
 
 
-def ensure_repo() -> None:
-    """Clone or pull the food-recipes repo silently."""
-    if REPO_DIR.exists():
-        os.system(f"git -C {REPO_DIR} pull origin main >/dev/null 2>&1")
-    else:
+def ensure_repo(pull: bool = True) -> None:
+    """Clone or optionally pull the food-recipes repo silently."""
+    if not REPO_DIR.exists():
         os.system(f"git clone --quiet https://github.com/Shelly-The-Bot/food-recipes {REPO_DIR}")
+    elif pull:
+        os.system(f"git -C {REPO_DIR} pull --quiet origin main >/dev/null 2>&1")
 
 
 # ── Filter mode ────────────────────────────────────────────────────────────────
@@ -160,6 +160,9 @@ def compute_match(
     recipe: dict[str, Any],
     query_tokens: set[str],
 ) -> tuple[float, list[str], list[str]]:
+    # Empty query → no match
+    if not query_tokens:
+        return 0.0, [], []
     """
     Algebraic match score.
 
@@ -230,7 +233,7 @@ def main() -> None:
 
     args = parser.parse_args()
 
-    ensure_repo()
+    ensure_repo(pull=False)
 
     index = load_index()
     results: list[dict[str, Any]] = []
@@ -250,15 +253,29 @@ def main() -> None:
             if apply_filter(recipe, args):
                 results.append(recipe_to_filter_output(recipe))
 
-        elif args.mode == "match":
-            query_tokens = tokenize(args.have)
-            score, matched, missing = compute_match(recipe, query_tokens)
-            if score >= args.threshold:
-                out = recipe_to_match_output(recipe)
-                out["match_score"]           = score
-                out["matched_ingredients"]  = matched
-                out["missing_ingredients"]  = missing
-                results.append(out)
+    if args.mode == "match":
+        query_tokens = tokenize(args.have)
+        # Empty query: return no results regardless of threshold
+        if not query_tokens:
+            results = []
+        else:
+            for entry in index:
+                file_name = entry.get("file", "")
+                if not file_name or file_name.endswith("/index.json") or file_name.endswith("/schema.json"):
+                    continue
+
+                recipe_path = REPO_DIR / "recipes" / file_name
+                if not recipe_path.exists():
+                    continue
+
+                recipe = load_recipe(recipe_path)
+                score, matched, missing = compute_match(recipe, query_tokens)
+                if score >= args.threshold:
+                    out = recipe_to_match_output(recipe)
+                    out["match_score"]           = score
+                    out["matched_ingredients"]  = matched
+                    out["missing_ingredients"]  = missing
+                    results.append(out)
 
     # Sort
     if args.mode == "filter":
