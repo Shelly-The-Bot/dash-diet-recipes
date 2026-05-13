@@ -1,0 +1,208 @@
+{
+  "name": "Spicy Chicken With Couscous | Macro-Balanced Meals",
+  "category": "high-protein",
+  "tags": [],
+  "servings": 2,
+  "source_url": "https://www.myprotein.com/thezone/recipe/spicy-chicken-with-couscous-macro-balanced-meals/",
+  "raw_ingredients": [
+    "1 tbsp. curry paste",
+    "1 tbsp. mango chutney",
+    "½ tsp. turmeric",
+    "Salt to taste",
+    "50ml olive oil",
+    "4 chicken breast",
+    "300g couscous",
+    "350ml vegetable stock"
+  ],
+  "ingredients": [
+    {
+      "original_text": "1 tbsp. curry paste",
+      "parsed_amount": "",
+      "amount_grams": 16,
+      "name_normalized": "curry paste",
+      "fdc_id": null,
+      "food_name": "curry paste",
+      "dash_group": "fats",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 130,
+        "protein_g": 2.4,
+        "carbs_g": 14.4,
+        "fat_g": 7.4,
+        "sodium_mg": 1200,
+        "fiber_g": 3.2
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "1 tbsp. mango chutney",
+      "parsed_amount": "",
+      "amount_grams": 20,
+      "name_normalized": "mango chutney",
+      "fdc_id": null,
+      "food_name": "mango chutney",
+      "dash_group": "sweets",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 50,
+        "protein_g": 0.1,
+        "carbs_g": 12.6,
+        "fat_g": 0.1,
+        "sodium_mg": 135,
+        "fiber_g": 0.3
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "½ tsp. turmeric",
+      "parsed_amount": "",
+      "amount_grams": 2.5,
+      "name_normalized": "turmeric",
+      "fdc_id": null,
+      "food_name": "turmeric",
+      "dash_group": "vegetables",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 7.75,
+        "protein_g": 0.27,
+        "carbs_g": 1.75,
+        "fat_g": 0.21,
+        "sodium_mg": 0.5,
+        "fiber_g": 0.7
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "Salt to taste",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "salt",
+      "fdc_id": null,
+      "food_name": "salt",
+      "dash_group": null,
+      "match_confidence": 0.5,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "50ml olive oil",
+      "parsed_amount": "",
+      "amount_grams": 46,
+      "name_normalized": "olive oil",
+      "fdc_id": null,
+      "food_name": "olive oil",
+      "dash_group": "fats",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 406.56,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 46,
+        "sodium_mg": 0,
+        "fiber_g": 0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "4 chicken breast",
+      "parsed_amount": "",
+      "amount_grams": 680,
+      "name_normalized": "chicken breast",
+      "fdc_id": null,
+      "food_name": "chicken breast",
+      "dash_group": "meats",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 1080.4,
+        "protein_g": 150.8,
+        "carbs_g": 0,
+        "fat_g": 20.4,
+        "sodium_mg": 748,
+        "fiber_g": 0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "300g couscous",
+      "parsed_amount": "",
+      "amount_grams": 300,
+      "name_normalized": "couscous",
+      "fdc_id": null,
+      "food_name": "couscous",
+      "dash_group": "grains",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 630,
+        "protein_g": 21,
+        "carbs_g": 126,
+        "fat_g": 1.2,
+        "sodium_mg": 30,
+        "fiber_g": 10.5
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "350ml vegetable stock",
+      "parsed_amount": "",
+      "amount_grams": 350,
+      "name_normalized": "vegetable stock",
+      "fdc_id": null,
+      "food_name": "vegetable stock",
+      "dash_group": "vegetables",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 59.5,
+        "protein_g": 1.75,
+        "carbs_g": 10.5,
+        "fat_g": 0,
+        "sodium_mg": 1400,
+        "fiber_g": 0
+      },
+      "_status": "known"
+    }
+  ],
+  "totals_per_serving": {
+    "kcal": 0.0,
+    "protein_g": 0.0,
+    "carbs_g": 0.0,
+    "fat_g": 0.0,
+    "sodium_mg": 0.0,
+    "fiber_g": 0.0,
+    "gl": null
+  },
+  "dash_servings_per_serving": {
+    "grains": 0.5,
+    "meats": 0.5,
+    "vegetables": 1.0,
+    "fruits": 0.0,
+    "dairy": 0.0,
+    "nuts": 0.0,
+    "sweets": 0.5,
+    "fats": 1.0
+  },
+  "compliance": {
+    "bp": true,
+    "diabetes": true,
+    "biliary": true
+  },
+  "_meta": {
+    "unknown_ingredients": [
+      "Salt to taste"
+    ],
+    "unknown_nutrients": [],
+    "parsing_warnings": [
+      "ingredient[0]: missing: name or name_normalized",
+      "ingredient[1]: missing: name or name_normalized",
+      "ingredient[2]: missing: name or name_normalized",
+      "ingredient[3]: missing: name or name_normalized",
+      "ingredient[4]: missing: name or name_normalized",
+      "ingredient[5]: missing: name or name_normalized",
+      "ingredient[6]: missing: name or name_normalized",
+      "ingredient[7]: missing: name or name_normalized"
+    ],
+    "inference_notes": [
+      "servings: 2"
+    ],
+    "suspicious": true
+  }
+}
