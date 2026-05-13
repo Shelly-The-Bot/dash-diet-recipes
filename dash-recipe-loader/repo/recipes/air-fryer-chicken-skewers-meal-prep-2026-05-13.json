@@ -2,7 +2,7 @@
   "name": "Air Fryer Chicken Skewers Meal Prep",
   "category": "high-protein",
   "tags": [],
-  "servings": 2,
+  "servings": 3,
   "source_url": "https://www.myprotein.com/recipe/air-fryer-chicken-skewers/",
   "raw_ingredients": [
     "1 tbsp sriracha",
@@ -13,14 +13,7 @@
     "2 garlic cloves (crushed)",
     "1cm piece of fresh ginger (finely chopped or grated)",
     "400g chicken (cubed)",
-    "1 red onion",
-    "Combine garlic, ginger, lime juice, honey, soy sauce, sriracha, and salt in a small bowl.",
-    "Put the chopped chicken into a large bowl and pour in the marinade. Stir to coat, then cover and put in the fridge to marinate overnight.",
-    "When ready, take the chicken out of the fridge and chop the onion.",
-    "Assemble the skewers by threading each one with chicken cubes and onion alternately.",
-    "Place in the air fryer and cook for 10 minutes at 180C. Then flip and cook on the other side for 7-10 minutes.",
-    "Serve with basmati rice and veg of your choice.",
-    "Eat straight away or store in the fridge."
+    "1 red onion"
   ],
   "ingredients": [
     {
@@ -130,90 +123,6 @@
       "match_confidence": 0.0,
       "nutrients": null,
       "_status": "unknown"
-    },
-    {
-      "original_text": "Combine garlic, ginger, lime juice, honey, soy sauce, sriracha, and salt in a small bowl.",
-      "parsed_amount": "",
-      "amount_grams": null,
-      "name_normalized": "",
-      "fdc_id": null,
-      "food_name": "",
-      "dash_group": null,
-      "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
-    },
-    {
-      "original_text": "Put the chopped chicken into a large bowl and pour in the marinade. Stir to coat, then cover and put in the fridge to marinate overnight.",
-      "parsed_amount": "",
-      "amount_grams": null,
-      "name_normalized": "",
-      "fdc_id": null,
-      "food_name": "",
-      "dash_group": null,
-      "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
-    },
-    {
-      "original_text": "When ready, take the chicken out of the fridge and chop the onion.",
-      "parsed_amount": "",
-      "amount_grams": null,
-      "name_normalized": "",
-      "fdc_id": null,
-      "food_name": "",
-      "dash_group": null,
-      "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
-    },
-    {
-      "original_text": "Assemble the skewers by threading each one with chicken cubes and onion alternately.",
-      "parsed_amount": "",
-      "amount_grams": null,
-      "name_normalized": "",
-      "fdc_id": null,
-      "food_name": "",
-      "dash_group": null,
-      "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
-    },
-    {
-      "original_text": "Place in the air fryer and cook for 10 minutes at 180C. Then flip and cook on the other side for 7-10 minutes.",
-      "parsed_amount": "",
-      "amount_grams": null,
-      "name_normalized": "",
-      "fdc_id": null,
-      "food_name": "",
-      "dash_group": null,
-      "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
-    },
-    {
-      "original_text": "Serve with basmati rice and veg of your choice.",
-      "parsed_amount": "",
-      "amount_grams": null,
-      "name_normalized": "",
-      "fdc_id": null,
-      "food_name": "",
-      "dash_group": null,
-      "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
-    },
-    {
-      "original_text": "Eat straight away or store in the fridge.",
-      "parsed_amount": "",
-      "amount_grams": null,
-      "name_normalized": "",
-      "fdc_id": null,
-      "food_name": "",
-      "dash_group": null,
-      "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
     }
   ],
   "totals_per_serving": {
@@ -250,14 +159,7 @@
       "2 garlic cloves (crushed)",
       "1cm piece of fresh ginger (finely chopped or grated)",
       "400g chicken (cubed)",
-      "1 red onion",
-      "Combine garlic, ginger, lime juice, honey, soy sauce, sriracha, and salt in a small bowl.",
-      "Put the chopped chicken into a large bowl and pour in the marinade. Stir to coat, then cover and put in the fridge to marinate overnight.",
-      "When ready, take the chicken out of the fridge and chop the onion.",
-      "Assemble the skewers by threading each one with chicken cubes and onion alternately.",
-      "Place in the air fryer and cook for 10 minutes at 180C. Then flip and cook on the other side for 7-10 minutes.",
-      "Serve with basmati rice and veg of your choice.",
-      "Eat straight away or store in the fridge."
+      "1 red onion"
     ],
     "unknown_nutrients": [],
     "parsing_warnings": [
@@ -269,17 +171,10 @@
       "ingredient[5]: missing: name or name_normalized or ingredient or food_name",
       "ingredient[6]: missing: name or name_normalized or ingredient or food_name",
       "ingredient[7]: missing: name or name_normalized or ingredient or food_name",
-      "ingredient[8]: missing: name or name_normalized or ingredient or food_name",
-      "ingredient[9]: missing: name or name_normalized or ingredient or food_name",
-      "ingredient[10]: missing: name or name_normalized or ingredient or food_name",
-      "ingredient[11]: missing: name or name_normalized or ingredient or food_name",
-      "ingredient[12]: missing: name or name_normalized or ingredient or food_name",
-      "ingredient[13]: missing: name or name_normalized or ingredient or food_name",
-      "ingredient[14]: missing: name or name_normalized or ingredient or food_name",
-      "ingredient[15]: missing: name or name_normalized or ingredient or food_name"
+      "ingredient[8]: missing: name or name_normalized or ingredient or food_name"
     ],
     "inference_notes": [
-      "servings: 2"
+      "servings: 3"
     ],
     "suspicious": true
   }
