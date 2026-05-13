@@ -1,11 +1,143 @@
 {
   "name": "Fudgey Chocolate Protein Brownies",
-  "category": "dessert",
+  "category": "snack",
   "tags": [],
   "servings": 8,
   "source_url": "https://www.myprotein.com/thezone/recipe/fudgey-chocolate-protein-brownies/",
-  "raw_ingredients": [],
-  "ingredients": [],
+  "raw_ingredients": [
+    "50g plain flour",
+    "40g Impact Whey Protein (Chocolate)",
+    "3g bicarbonate of soda",
+    "35g cocoa powder",
+    "40g Nutella (melted)",
+    "Drop Vanilla FlavDrops",
+    "250g fat-free Greek style yoghurt",
+    "125ml almond milk",
+    "1/2 Hotel Chocolat Protein Bar (chopped)",
+    "5g chocolate chips"
+  ],
+  "ingredients": [
+    {
+      "original_text": "50g plain flour",
+      "parsed_amount": "",
+      "amount_grams": 50,
+      "name_normalized": "plain flour",
+      "fdc_id": null,
+      "food_name": "plain flour",
+      "dash_group": "grains",
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "40g Impact Whey Protein (Chocolate)",
+      "parsed_amount": "",
+      "amount_grams": 40,
+      "name_normalized": "Impact Whey Protein (Chocolate)",
+      "fdc_id": null,
+      "food_name": "Impact Whey Protein (Chocolate)",
+      "dash_group": "meats",
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "3g bicarbonate of soda",
+      "parsed_amount": "",
+      "amount_grams": 3,
+      "name_normalized": "bicarbonate of soda",
+      "fdc_id": null,
+      "food_name": "bicarbonate of soda",
+      "dash_group": "fats",
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "35g cocoa powder",
+      "parsed_amount": "",
+      "amount_grams": 35,
+      "name_normalized": "cocoa powder",
+      "fdc_id": null,
+      "food_name": "cocoa powder",
+      "dash_group": "fats",
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "40g Nutella (melted)",
+      "parsed_amount": "",
+      "amount_grams": 40,
+      "name_normalized": "Nutella (melted)",
+      "fdc_id": null,
+      "food_name": "Nutella (melted)",
+      "dash_group": "sweets",
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "Drop Vanilla FlavDrops",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "Vanilla FlavDrops",
+      "fdc_id": null,
+      "food_name": "Vanilla FlavDrops",
+      "dash_group": "sweets",
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "250g fat-free Greek style yoghurt",
+      "parsed_amount": "",
+      "amount_grams": 250,
+      "name_normalized": "fat-free Greek style yoghurt",
+      "fdc_id": null,
+      "food_name": "fat-free Greek style yoghurt",
+      "dash_group": "dairy",
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "125ml almond milk",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "almond milk",
+      "fdc_id": null,
+      "food_name": "almond milk",
+      "dash_group": "dairy",
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "1/2 Hotel Chocolat Protein Bar (chopped)",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "Hotel Chocolat Protein Bar (chopped)",
+      "fdc_id": null,
+      "food_name": "Hotel Chocolat Protein Bar (chopped)",
+      "dash_group": "meats",
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "5g chocolate chips",
+      "parsed_amount": "",
+      "amount_grams": 5,
+      "name_normalized": "chocolate chips",
+      "fdc_id": null,
+      "food_name": "chocolate chips",
+      "dash_group": "sweets",
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    }
+  ],
   "totals_per_serving": {
     "kcal": 0.0,
     "protein_g": 0.0,
@@ -16,14 +148,14 @@
     "gl": null
   },
   "dash_servings_per_serving": {
-    "grains": 0.0,
-    "meats": 0.0,
+    "grains": 0.12,
+    "meats": 0.12,
     "vegetables": 0.0,
     "fruits": 0.0,
-    "dairy": 0.0,
+    "dairy": 0.12,
     "nuts": 0.0,
-    "sweets": 0.0,
-    "fats": 0.0
+    "sweets": 0.25,
+    "fats": 0.25
   },
   "compliance": {
     "bp": true,
