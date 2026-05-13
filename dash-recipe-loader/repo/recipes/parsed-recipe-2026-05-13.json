@@ -2,8 +2,8 @@
   "name": "Parsed Recipe",
   "category": "high-protein",
   "tags": [],
-  "servings": 8,
-  "source_url": "https://www.myprotein.com/thezone/recipe/fudgey-chocolate-protein-brownies/",
+  "servings": 20,
+  "source_url": "https://www.myprotein.com/thezone/recipe/only-protein-balls-recipe-you-need/",
   "raw_ingredients": [],
   "ingredients": [],
   "totals_per_serving": {
@@ -35,7 +35,7 @@
     "unknown_nutrients": [],
     "parsing_warnings": [],
     "inference_notes": [
-      "servings: 8"
+      "servings: 20"
     ],
     "suspicious": false
   }
