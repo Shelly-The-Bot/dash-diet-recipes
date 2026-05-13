@@ -1,0 +1,92 @@
+{
+  "name": "Plain Oatmeal Porridge",
+  "category": "breakfast",
+  "tags": [],
+  "servings": 2,
+  "source_url": "https://example.com/oatmeal-porridge",
+  "raw_ingredients": [
+    "1/2 cup rolled oats",
+    "1 cup water",
+    "1/2 medium banana"
+  ],
+  "ingredients": [
+    {
+      "original_text": "1/2 cup rolled oats",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "1 cup water",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "1/2 medium banana",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    }
+  ],
+  "totals_per_serving": {
+    "kcal": 0.0,
+    "protein_g": 0.0,
+    "carbs_g": 0.0,
+    "fat_g": 0.0,
+    "sodium_mg": 0.0,
+    "fiber_g": 0.0,
+    "gl": null
+  },
+  "dash_servings_per_serving": {
+    "grains": 0.0,
+    "meats": 0.0,
+    "vegetables": 0.0,
+    "fruits": 0.0,
+    "dairy": 0.0,
+    "nuts": 0.0,
+    "sweets": 0.0,
+    "fats": 0.0
+  },
+  "compliance": {
+    "bp": true,
+    "diabetes": true,
+    "biliary": true
+  },
+  "_meta": {
+    "unknown_ingredients": [
+      "1/2 cup rolled oats",
+      "1 cup water",
+      "1/2 medium banana"
+    ],
+    "unknown_nutrients": [],
+    "parsing_warnings": [
+      "ingredient 0: missing required field: name; missing required field: amount_grams",
+      "ingredient 1: missing required field: name; missing required field: amount_grams",
+      "ingredient 2: missing required field: name; missing required field: amount_grams",
+      "delegate_task not available"
+    ],
+    "inference_notes": [
+      "servings: 2"
+    ],
+    "suspicious": true
+  }
+}
