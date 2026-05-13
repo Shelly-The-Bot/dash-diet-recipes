@@ -79,10 +79,9 @@
     ],
     "unknown_nutrients": [],
     "parsing_warnings": [
-      "ingredient 0: missing required field: name; missing required field: amount_grams",
-      "ingredient 1: missing required field: name; missing required field: amount_grams",
-      "ingredient 2: missing required field: name; missing required field: amount_grams",
-      "delegate_task not available"
+      "ingredient[0]: missing: name or name_normalized",
+      "ingredient[1]: missing: name or name_normalized",
+      "ingredient[2]: missing: name or name_normalized"
     ],
     "inference_notes": [
       "servings: 2"
