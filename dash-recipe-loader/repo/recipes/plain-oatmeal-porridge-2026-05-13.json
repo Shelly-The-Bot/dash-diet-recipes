@@ -13,22 +13,29 @@
     {
       "original_text": "1/2 cup rolled oats",
       "parsed_amount": "",
-      "amount_grams": null,
-      "name_normalized": "",
+      "amount_grams": 80,
+      "name_normalized": "rolled oats",
       "fdc_id": null,
-      "food_name": "",
-      "dash_group": null,
-      "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
+      "food_name": "rolled oats",
+      "dash_group": "grains",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 389,
+        "protein_g": 16.9,
+        "carbs_g": 66,
+        "fat_g": 6.9,
+        "sodium_mg": 2,
+        "fiber_g": 11
+      },
+      "_status": "known"
     },
     {
       "original_text": "1 cup water",
       "parsed_amount": "",
-      "amount_grams": null,
-      "name_normalized": "",
+      "amount_grams": 240,
+      "name_normalized": "water",
       "fdc_id": null,
-      "food_name": "",
+      "food_name": "water",
       "dash_group": null,
       "match_confidence": 0.0,
       "nutrients": null,
@@ -37,14 +44,21 @@
     {
       "original_text": "1/2 medium banana",
       "parsed_amount": "",
-      "amount_grams": null,
-      "name_normalized": "",
+      "amount_grams": 59,
+      "name_normalized": "banana",
       "fdc_id": null,
-      "food_name": "",
-      "dash_group": null,
-      "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
+      "food_name": "banana",
+      "dash_group": "fruits",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 53,
+        "protein_g": 0.8,
+        "carbs_g": 13.5,
+        "fat_g": 0.2,
+        "sodium_mg": 1,
+        "fiber_g": 1.5
+      },
+      "_status": "known"
     }
   ],
   "totals_per_serving": {
@@ -57,10 +71,10 @@
     "gl": null
   },
   "dash_servings_per_serving": {
-    "grains": 0.0,
+    "grains": 0.5,
     "meats": 0.0,
     "vegetables": 0.0,
-    "fruits": 0.0,
+    "fruits": 0.5,
     "dairy": 0.0,
     "nuts": 0.0,
     "sweets": 0.0,
@@ -73,16 +87,10 @@
   },
   "_meta": {
     "unknown_ingredients": [
-      "1/2 cup rolled oats",
-      "1 cup water",
-      "1/2 medium banana"
+      "1 cup water"
     ],
     "unknown_nutrients": [],
-    "parsing_warnings": [
-      "ingredient[0]: missing: name or name_normalized",
-      "ingredient[1]: missing: name or name_normalized",
-      "ingredient[2]: missing: name or name_normalized"
-    ],
+    "parsing_warnings": [],
     "inference_notes": [
       "servings: 2"
     ],
