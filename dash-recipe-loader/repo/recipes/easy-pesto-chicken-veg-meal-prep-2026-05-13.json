@@ -1,0 +1,39 @@
+{
+  "name": "Easy Pesto Chicken & Veg Meal Prep",
+  "category": "high-protein",
+  "tags": [],
+  "servings": 4,
+  "source_url": "https://www.myprotein.com/thezone/recipe/easy-pesto-chicken-veg-meal-prep/",
+  "raw_ingredients": [
+    "1tbsp. olive oil",
+    "4 chicken breast (cubed)",
+    "½ tsp. salt",
+    "½ tsp. pepper",
+    "1 red onion (chopped)",
+    "1 courgette (sliced)",
+    "400g green beans",
+    "100g reduced fat pesto",
+    "Optional: cooked quinoa to serve"
+  ],
+  "ingredients": [
+    {"original_text": "1tbsp. olive oil", "parsed_amount": "1 tbsp", "amount_grams": null, "name_normalized": "olive oil", "dash_group": "fats", "match_confidence": 0.9, "_status": "parsed"},
+    {"original_text": "4 chicken breast (cubed)", "parsed_amount": "4", "amount_grams": null, "name_normalized": "chicken breast", "dash_group": "meats", "match_confidence": 0.95, "_status": "parsed"},
+    {"original_text": "½ tsp. salt", "parsed_amount": "½ tsp", "amount_grams": null, "name_normalized": "salt", "dash_group": null, "match_confidence": 0.5, "_status": "parsed"},
+    {"original_text": "½ tsp. pepper", "parsed_amount": "½ tsp", "amount_grams": null, "name_normalized": "pepper", "dash_group": "vegetables", "match_confidence": 0.8, "_status": "parsed"},
+    {"original_text": "1 red onion (chopped)", "parsed_amount": "1", "amount_grams": null, "name_normalized": "red onion", "dash_group": "vegetables", "match_confidence": 0.9, "_status": "parsed"},
+    {"original_text": "1 courgette (sliced)", "parsed_amount": "1", "amount_grams": null, "name_normalized": "courgette", "dash_group": "vegetables", "match_confidence": 0.9, "_status": "parsed"},
+    {"original_text": "400g green beans", "parsed_amount": "400g", "amount_grams": 400, "name_normalized": "green beans", "dash_group": "vegetables", "match_confidence": 0.95, "_status": "parsed"},
+    {"original_text": "100g reduced fat pesto", "parsed_amount": "100g", "amount_grams": 100, "name_normalized": "reduced fat pesto", "dash_group": "fats", "match_confidence": 0.8, "_status": "parsed"},
+    {"original_text": "Optional: cooked quinoa to serve", "parsed_amount": "optional", "amount_grams": null, "name_normalized": "quinoa", "dash_group": "grains", "match_confidence": 0.9, "_status": "parsed"}
+  ],
+  "instructions": [
+    "Heat the olive oil in a large frying pan and then add the cubed chicken. Season with salt & pepper, then cook for 5-7 minutes until the chicken is completely cooked through and turned from pink to white.",
+    "Add the chopped veg, mix to combine, and then cook for a few minutes until the veg begins to soften. Be careful not to overcook the veg here though – especially if reheating portions later in the week.",
+    "Stir through the reduced fat pesto so that everything is coated, heat for another minute or so, and then you're ready to serve.",
+    "Portion up into meal prep containers with cooked wholegrain quinoa if you want a serving of slow-releasing carbs too."
+  ],
+  "totals_per_serving": {"kcal": 0.0, "protein_g": 0.0, "carbs_g": 0.0, "fat_g": 0.0, "sodium_mg": 0.0, "fiber_g": 0.0, "gl": null},
+  "dash_servings_per_serving": {"grains": 0.0, "meats": 1.0, "vegetables": 0.5, "fruits": 0.0, "dairy": 0.0, "nuts": 0.0, "sweets": 0.0, "fats": 0.5},
+  "compliance": {"bp": true, "diabetes": true, "biliary": true},
+  "_meta": {"unknown_ingredients": [], "unknown_nutrients": [], "parsing_warnings": ["Manual ingredient list provided"], "inference_notes": ["servings: 4"], "suspicious": false}
+}
