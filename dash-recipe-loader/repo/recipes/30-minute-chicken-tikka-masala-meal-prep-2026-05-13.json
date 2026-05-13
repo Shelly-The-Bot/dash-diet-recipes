@@ -1,0 +1,344 @@
+{
+  "name": "30-Minute Chicken Tikka Masala Meal Prep",
+  "category": "high-protein",
+  "tags": [],
+  "servings": 4,
+  "source_url": "https://www.myprotein.com/thezone/recipe/30-minute-chicken-tikka-masala-meal-prep/",
+  "raw_ingredients": [
+    "1tbsp. 100% coconut oil",
+    "500g chicken breast",
+    "1 onion",
+    "4 garlic clove",
+    "1tbsp. ginger",
+    "2tbsp. tomato puree",
+    "1 tsp. turmeric",
+    "1 tsp. garam masala",
+    "1/4 tsp. chilli powder",
+    "400g tinned tomatoes",
+    "350ml chicken stock",
+    "3tbsp. full-fat greek yoghurt",
+    "150g cooked basmati rice",
+    "1 flatbread",
+    "20g chopped cashews"
+  ],
+  "ingredients": [
+    {
+      "original_text": "1tbsp. 100% coconut oil",
+      "parsed_amount": "1 tbsp",
+      "amount_grams": 15,
+      "name_normalized": "coconut oil",
+      "fdc_id": null,
+      "food_name": "coconut oil",
+      "dash_group": "fats",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 121,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 13.5,
+        "sodium_mg": 0,
+        "fiber_g": 0
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "500g chicken breast",
+      "parsed_amount": "500g",
+      "amount_grams": 500,
+      "name_normalized": "chicken breast",
+      "fdc_id": null,
+      "food_name": "chicken breast",
+      "dash_group": "meats",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 825,
+        "protein_g": 150,
+        "carbs_g": 0,
+        "fat_g": 15,
+        "sodium_mg": 750,
+        "fiber_g": 0
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "1 onion",
+      "parsed_amount": "1 medium",
+      "amount_grams": 110,
+      "name_normalized": "onion",
+      "fdc_id": null,
+      "food_name": "onion",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 44,
+        "protein_g": 1.2,
+        "carbs_g": 10,
+        "fat_g": 0.1,
+        "sodium_mg": 4,
+        "fiber_g": 2
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "4 garlic clove",
+      "parsed_amount": "4 cloves",
+      "amount_grams": 12,
+      "name_normalized": "garlic",
+      "fdc_id": null,
+      "food_name": "garlic",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 18,
+        "protein_g": 0.8,
+        "carbs_g": 4,
+        "fat_g": 0.1,
+        "sodium_mg": 2,
+        "fiber_g": 0.3
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "1tbsp. ginger",
+      "parsed_amount": "1 tbsp",
+      "amount_grams": 15,
+      "name_normalized": "ginger",
+      "fdc_id": null,
+      "food_name": "ginger",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 10,
+        "protein_g": 0.2,
+        "carbs_g": 2,
+        "fat_g": 0.1,
+        "sodium_mg": 3,
+        "fiber_g": 0.3
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "2tbsp. tomato puree",
+      "parsed_amount": "2 tbsp",
+      "amount_grams": 66,
+      "name_normalized": "tomato puree",
+      "fdc_id": null,
+      "food_name": "tomato puree",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 36,
+        "protein_g": 1.7,
+        "carbs_g": 8,
+        "fat_g": 0.4,
+        "sodium_mg": 240,
+        "fiber_g": 2
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "1 tsp. turmeric",
+      "parsed_amount": "1 tsp",
+      "amount_grams": 3,
+      "name_normalized": "turmeric",
+      "fdc_id": null,
+      "food_name": "turmeric",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 10,
+        "protein_g": 0.3,
+        "carbs_g": 2,
+        "fat_g": 0.1,
+        "sodium_mg": 1,
+        "fiber_g": 1
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "1 tsp. garam masala",
+      "parsed_amount": "1 tsp",
+      "amount_grams": 3,
+      "name_normalized": "garam masala",
+      "fdc_id": null,
+      "food_name": "garam masala",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 10,
+        "protein_g": 0.3,
+        "carbs_g": 2,
+        "fat_g": 0.1,
+        "sodium_mg": 2,
+        "fiber_g": 0.7
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "1/4 tsp. chilli powder",
+      "parsed_amount": "1/4 tsp",
+      "amount_grams": 0.6,
+      "name_normalized": "chilli powder",
+      "fdc_id": null,
+      "food_name": "chilli powder",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 2,
+        "protein_g": 0.1,
+        "carbs_g": 0.4,
+        "fat_g": 0.1,
+        "sodium_mg": 1,
+        "fiber_g": 0.2
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "400g tinned tomatoes",
+      "parsed_amount": "400g",
+      "amount_grams": 400,
+      "name_normalized": "tinned tomatoes",
+      "fdc_id": null,
+      "food_name": "tinned tomatoes",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 72,
+        "protein_g": 3.5,
+        "carbs_g": 15,
+        "fat_g": 0.5,
+        "sodium_mg": 400,
+        "fiber_g": 4
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "350ml chicken stock",
+      "parsed_amount": "350ml",
+      "amount_grams": 350,
+      "name_normalized": "chicken stock",
+      "fdc_id": null,
+      "food_name": "chicken stock",
+      "dash_group": "meats",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 35,
+        "protein_g": 7,
+        "carbs_g": 0.4,
+        "fat_g": 1,
+        "sodium_mg": 800,
+        "fiber_g": 0
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "3tbsp. full-fat greek yoghurt",
+      "parsed_amount": "3 tbsp",
+      "amount_grams": 45,
+      "name_normalized": "greek yoghurt",
+      "fdc_id": null,
+      "food_name": "greek yoghurt",
+      "dash_group": "dairy",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 52,
+        "protein_g": 4.5,
+        "carbs_g": 3,
+        "fat_g": 2.5,
+        "sodium_mg": 35,
+        "fiber_g": 0
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "150g cooked basmati rice",
+      "parsed_amount": "150g cooked",
+      "amount_grams": 150,
+      "name_normalized": "basmati rice",
+      "fdc_id": null,
+      "food_name": "basmati rice",
+      "dash_group": "grains",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 205,
+        "protein_g": 4.3,
+        "carbs_g": 45,
+        "fat_g": 0.5,
+        "sodium_mg": 3,
+        "fiber_g": 0.5
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "1 flatbread",
+      "parsed_amount": "1 large",
+      "amount_grams": 90,
+      "name_normalized": "flatbread",
+      "fdc_id": null,
+      "food_name": "flatbread",
+      "dash_group": "grains",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 250,
+        "protein_g": 7,
+        "carbs_g": 45,
+        "fat_g": 4,
+        "sodium_mg": 400,
+        "fiber_g": 2
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "20g chopped cashews",
+      "parsed_amount": "20g",
+      "amount_grams": 20,
+      "name_normalized": "cashews",
+      "fdc_id": null,
+      "food_name": "cashews",
+      "dash_group": "nuts",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 117,
+        "protein_g": 4,
+        "carbs_g": 6,
+        "fat_g": 10,
+        "sodium_mg": 3,
+        "fiber_g": 0.5
+      },
+      "_status": "matched"
+    }
+  ],
+  "totals_per_serving": {
+    "kcal": 0.0,
+    "protein_g": 0.0,
+    "carbs_g": 0.0,
+    "fat_g": 0.0,
+    "sodium_mg": 0.0,
+    "fiber_g": 0.0,
+    "gl": null
+  },
+  "dash_servings_per_serving": {
+    "grains": 0.5,
+    "meats": 0.5,
+    "vegetables": 2.0,
+    "fruits": 0.0,
+    "dairy": 0.25,
+    "nuts": 0.25,
+    "sweets": 0.0,
+    "fats": 0.25
+  },
+  "compliance": {
+    "bp": true,
+    "diabetes": true,
+    "biliary": true
+  },
+  "_meta": {
+    "unknown_ingredients": [],
+    "unknown_nutrients": [],
+    "parsing_warnings": [],
+    "inference_notes": [
+      "servings: 4"
+    ],
+    "suspicious": false
+  }
+}
