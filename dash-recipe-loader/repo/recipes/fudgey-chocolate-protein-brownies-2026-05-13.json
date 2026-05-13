@@ -14,68 +14,110 @@
     "250g fat-free Greek style yoghurt",
     "125ml almond milk",
     "1/2 Hotel Chocolat Protein Bar (chopped)",
-    "5g chocolate chips"
+    "5g chocolate chips",
+    "Preheat the oven to 170C and line a baking tray with baking paper.",
+    "In a bowl, sift the flour, protein powder, cocoa powder, and bicarbonate of soda, then whisk to combine.",
+    "Melt your nutella by putting it in a microwave for 15 seconds on low.",
+    "Once your dry mixture is combined, add in the yoghurt, melted nutella, vanilla FlavDrops, and milk, then mix to create a brownie batter.",
+    "Add in half the chopped up protein bar, then pour the mixture into your pan.",
+    "Sprinkle with chocolate chips, then place in the oven to bake for 15-20 minutes.",
+    "Allow to cool, then slice into 8 and dig in."
   ],
   "ingredients": [
     {
       "original_text": "50g plain flour",
       "parsed_amount": "",
-      "amount_grams": 50,
+      "amount_grams": 50.0,
       "name_normalized": "plain flour",
       "fdc_id": null,
       "food_name": "plain flour",
       "dash_group": "grains",
-      "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 364,
+        "protein_g": 10,
+        "carbs_g": 76,
+        "fat_g": 1,
+        "sodium_mg": 2,
+        "fiber_g": 3
+      },
+      "_status": "known"
     },
     {
       "original_text": "40g Impact Whey Protein (Chocolate)",
       "parsed_amount": "",
-      "amount_grams": 40,
-      "name_normalized": "Impact Whey Protein (Chocolate)",
+      "amount_grams": 40.0,
+      "name_normalized": "Impact Whey Protein",
       "fdc_id": null,
-      "food_name": "Impact Whey Protein (Chocolate)",
+      "food_name": "Impact Whey Protein",
       "dash_group": "meats",
-      "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
+      "match_confidence": 0.8,
+      "nutrients": {
+        "kcal": 150,
+        "protein_g": 35,
+        "carbs_g": 5,
+        "fat_g": 1,
+        "sodium_mg": 50,
+        "fiber_g": 0
+      },
+      "_status": "known"
     },
     {
       "original_text": "3g bicarbonate of soda",
       "parsed_amount": "",
-      "amount_grams": 3,
+      "amount_grams": 3.0,
       "name_normalized": "bicarbonate of soda",
       "fdc_id": null,
       "food_name": "bicarbonate of soda",
-      "dash_group": "fats",
+      "dash_group": null,
       "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
+      "nutrients": {
+        "kcal": 0,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 0,
+        "sodium_mg": 1250,
+        "fiber_g": 0
+      },
+      "_status": "known"
     },
     {
       "original_text": "35g cocoa powder",
       "parsed_amount": "",
-      "amount_grams": 35,
+      "amount_grams": 35.0,
       "name_normalized": "cocoa powder",
       "fdc_id": null,
       "food_name": "cocoa powder",
       "dash_group": "fats",
-      "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
+      "match_confidence": 0.9,
+      "nutrients": {
+        "kcal": 228,
+        "protein_g": 20,
+        "carbs_g": 58,
+        "fat_g": 14,
+        "sodium_mg": 12,
+        "fiber_g": 33
+      },
+      "_status": "known"
     },
     {
       "original_text": "40g Nutella (melted)",
       "parsed_amount": "",
-      "amount_grams": 40,
-      "name_normalized": "Nutella (melted)",
+      "amount_grams": 40.0,
+      "name_normalized": "Nutella",
       "fdc_id": null,
-      "food_name": "Nutella (melted)",
+      "food_name": "Nutella",
       "dash_group": "sweets",
-      "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
+      "match_confidence": 0.9,
+      "nutrients": {
+        "kcal": 220,
+        "protein_g": 2,
+        "carbs_g": 27,
+        "fat_g": 12,
+        "sodium_mg": 40,
+        "fiber_g": 1
+      },
+      "_status": "known"
     },
     {
       "original_text": "Drop Vanilla FlavDrops",
@@ -84,55 +126,167 @@
       "name_normalized": "Vanilla FlavDrops",
       "fdc_id": null,
       "food_name": "Vanilla FlavDrops",
-      "dash_group": "sweets",
+      "dash_group": null,
       "match_confidence": 0.0,
       "nutrients": null,
-      "_status": "unknown"
+      "_status": "uncertain"
     },
     {
       "original_text": "250g fat-free Greek style yoghurt",
       "parsed_amount": "",
-      "amount_grams": 250,
-      "name_normalized": "fat-free Greek style yoghurt",
+      "amount_grams": 250.0,
+      "name_normalized": "Greek yoghurt",
       "fdc_id": null,
-      "food_name": "fat-free Greek style yoghurt",
+      "food_name": "Greek yoghurt",
       "dash_group": "dairy",
-      "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
+      "match_confidence": 0.9,
+      "nutrients": {
+        "kcal": 130,
+        "protein_g": 22,
+        "carbs_g": 8,
+        "fat_g": 0,
+        "sodium_mg": 90,
+        "fiber_g": 0
+      },
+      "_status": "known"
     },
     {
       "original_text": "125ml almond milk",
       "parsed_amount": "",
-      "amount_grams": null,
+      "amount_grams": 125.0,
       "name_normalized": "almond milk",
       "fdc_id": null,
       "food_name": "almond milk",
       "dash_group": "dairy",
-      "match_confidence": 0.0,
-      "nutrients": null,
-      "_status": "unknown"
+      "match_confidence": 0.9,
+      "nutrients": {
+        "kcal": 30,
+        "protein_g": 1,
+        "carbs_g": 1,
+        "fat_g": 2,
+        "sodium_mg": 70,
+        "fiber_g": 0
+      },
+      "_status": "known"
     },
     {
       "original_text": "1/2 Hotel Chocolat Protein Bar (chopped)",
       "parsed_amount": "",
-      "amount_grams": null,
-      "name_normalized": "Hotel Chocolat Protein Bar (chopped)",
+      "amount_grams": 30.0,
+      "name_normalized": "Hotel Chocolat Protein Bar",
       "fdc_id": null,
-      "food_name": "Hotel Chocolat Protein Bar (chopped)",
-      "dash_group": "meats",
+      "food_name": "Hotel Chocolat Protein Bar",
+      "dash_group": "sweets",
+      "match_confidence": 0.7,
+      "nutrients": {
+        "kcal": 100,
+        "protein_g": 8,
+        "carbs_g": 10,
+        "fat_g": 4,
+        "sodium_mg": 30,
+        "fiber_g": 2
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "5g chocolate chips",
+      "parsed_amount": "",
+      "amount_grams": 5.0,
+      "name_normalized": "chocolate chips",
+      "fdc_id": null,
+      "food_name": "chocolate chips",
+      "dash_group": "sweets",
+      "match_confidence": 0.9,
+      "nutrients": {
+        "kcal": 25,
+        "protein_g": 0,
+        "carbs_g": 3,
+        "fat_g": 2,
+        "sodium_mg": 2,
+        "fiber_g": 0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "Preheat the oven to 170C and line a baking tray with baking paper.",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
       "match_confidence": 0.0,
       "nutrients": null,
       "_status": "unknown"
     },
     {
-      "original_text": "5g chocolate chips",
+      "original_text": "In a bowl, sift the flour, protein powder, cocoa powder, and bicarbonate of soda, then whisk to combine.",
       "parsed_amount": "",
-      "amount_grams": 5,
-      "name_normalized": "chocolate chips",
+      "amount_grams": null,
+      "name_normalized": "",
       "fdc_id": null,
-      "food_name": "chocolate chips",
-      "dash_group": "sweets",
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "Melt your nutella by putting it in a microwave for 15 seconds on low.",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "Once your dry mixture is combined, add in the yoghurt, melted nutella, vanilla FlavDrops, and milk, then mix to create a brownie batter.",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "Add in half the chopped up protein bar, then pour the mixture into your pan.",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "Sprinkle with chocolate chips, then place in the oven to bake for 15-20 minutes.",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "Allow to cool, then slice into 8 and dig in.",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
       "match_confidence": 0.0,
       "nutrients": null,
       "_status": "unknown"
@@ -152,10 +306,10 @@
     "meats": 0.12,
     "vegetables": 0.0,
     "fruits": 0.0,
-    "dairy": 0.12,
+    "dairy": 0.25,
     "nuts": 0.0,
-    "sweets": 0.25,
-    "fats": 0.25
+    "sweets": 0.38,
+    "fats": 0.12
   },
   "compliance": {
     "bp": true,
@@ -163,12 +317,30 @@
     "biliary": true
   },
   "_meta": {
-    "unknown_ingredients": [],
+    "unknown_ingredients": [
+      "3g bicarbonate of soda",
+      "Drop Vanilla FlavDrops",
+      "Preheat the oven to 170C and line a baking tray with baking paper.",
+      "In a bowl, sift the flour, protein powder, cocoa powder, and bicarbonate of soda, then whisk to combine.",
+      "Melt your nutella by putting it in a microwave for 15 seconds on low.",
+      "Once your dry mixture is combined, add in the yoghurt, melted nutella, vanilla FlavDrops, and milk, then mix to create a brownie batter.",
+      "Add in half the chopped up protein bar, then pour the mixture into your pan.",
+      "Sprinkle with chocolate chips, then place in the oven to bake for 15-20 minutes.",
+      "Allow to cool, then slice into 8 and dig in."
+    ],
     "unknown_nutrients": [],
-    "parsing_warnings": [],
+    "parsing_warnings": [
+      "ingredient[10]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[11]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[12]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[13]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[14]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[15]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[16]: missing: name or name_normalized or ingredient or food_name"
+    ],
     "inference_notes": [
       "servings: 8"
     ],
-    "suspicious": false
+    "suspicious": true
   }
 }
