@@ -102,8 +102,9 @@ def validate_parsed_ingredient(ing: dict) -> tuple[bool, List[str]]:
     Returns (is_valid, list_of_errors).
     """
     errors = []
-    if not ing.get("name") and not ing.get("name_normalized"):
-        errors.append("missing: name or name_normalized")
+    name = ing.get("name") or ing.get("name_normalized") or ing.get("ingredient") or ing.get("food_name")
+    if not name:
+        errors.append("missing: name or name_normalized or ingredient or food_name")
     if ing.get("amount_grams") is not None and ing["amount_grams"] <= 0:
         errors.append(f"amount_grams must be > 0, got {ing['amount_grams']}")
     if ing.get("dash_group") is not None and ing["dash_group"] not in VALID_DASH_GROUPS:
