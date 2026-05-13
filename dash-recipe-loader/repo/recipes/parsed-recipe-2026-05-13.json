@@ -1,83 +1,42 @@
-[
-  {
-    "original": "500g chicken wings (roughly 12)",
-    "ingredient": "chicken wings",
-    "amount_grams": 500.0,
-    "dash_group": "meats",
-    "match_confidence": 1.0,
-    "nutrients": { "kcal": 203, "protein_g": 30.3, "carbs_g": 0.0, "fat_g": 8.4, "sodium_mg": 88, "fiber_g": 0.0 },
-    "_status": "known"
+{
+  "name": "Parsed Recipe",
+  "category": "high-protein",
+  "tags": [],
+  "servings": 12,
+  "source_url": "https://www.myprotein.com/thezone/recipe/honey-sriracha-chicken-tenders/",
+  "raw_ingredients": [],
+  "ingredients": [],
+  "totals_per_serving": {
+    "kcal": 0.0,
+    "protein_g": 0.0,
+    "carbs_g": 0.0,
+    "fat_g": 0.0,
+    "sodium_mg": 0.0,
+    "fiber_g": 0.0,
+    "gl": null
   },
-  {
-    "original": "Low-calorie cooking spray",
-    "ingredient": "cooking spray",
-    "amount_grams": 5.0,
-    "dash_group": "fats",
-    "match_confidence": 0.7,
-    "nutrients": { "kcal": 3, "protein_g": 0.0, "carbs_g": 0.0, "fat_g": 0.3, "sodium_mg": 0, "fiber_g": 0.0 },
-    "_status": "uncertain"
+  "dash_servings_per_serving": {
+    "grains": 0.0,
+    "meats": 0.0,
+    "vegetables": 0.0,
+    "fruits": 0.0,
+    "dairy": 0.0,
+    "nuts": 0.0,
+    "sweets": 0.0,
+    "fats": 0.0
   },
-  {
-    "original": "1/2tbsp. baking powder",
-    "ingredient": "baking powder",
-    "amount_grams": 2.5,
-    "dash_group": null,
-    "match_confidence": 0.5,
-    "nutrients": { "kcal": 1, "protein_g": 0.0, "carbs_g": 0.6, "fat_g": 0.0, "sodium_mg": 636, "fiber_g": 0.0 },
-    "_status": "uncertain"
+  "compliance": {
+    "bp": true,
+    "diabetes": true,
+    "biliary": true
   },
-  {
-    "original": "1 tsp. onion powder",
-    "ingredient": "onion powder",
-    "amount_grams": 3.0,
-    "dash_group": null,
-    "match_confidence": 0.5,
-    "nutrients": { "kcal": 8, "protein_g": 0.4, "carbs_g": 1.8, "fat_g": 0.0, "sodium_mg": 2, "fiber_g": 0.1 },
-    "_status": "uncertain"
-  },
-  {
-    "original": "1 tsp. garlic powder",
-    "ingredient": "garlic powder",
-    "amount_grams": 3.0,
-    "dash_group": null,
-    "match_confidence": 0.5,
-    "nutrients": { "kcal": 10, "protein_g": 0.5, "carbs_g": 2.2, "fat_g": 0.0, "sodium_mg": 2, "fiber_g": 0.3 },
-    "_status": "uncertain"
-  },
-  {
-    "original": "1 tsp. salt",
-    "ingredient": "salt",
-    "amount_grams": 6.0,
-    "dash_group": null,
-    "match_confidence": 0.8,
-    "nutrients": { "kcal": 0, "protein_g": 0.0, "carbs_g": 0.0, "fat_g": 0.0, "sodium_mg": 2325, "fiber_g": 0.0 },
-    "_status": "known"
-  },
-  {
-    "original": "1.5tbsp. oil",
-    "ingredient": "vegetable oil",
-    "amount_grams": 20.0,
-    "dash_group": "fats",
-    "match_confidence": 0.7,
-    "nutrients": { "kcal": 176, "protein_g": 0.0, "carbs_g": 0.0, "fat_g": 20.0, "sodium_mg": 0, "fiber_g": 0.0 },
-    "_status": "known"
-  },
-  {
-    "original": "2tbsp. honey",
-    "ingredient": "honey",
-    "amount_grams": 42.0,
-    "dash_group": "sweets",
-    "match_confidence": 0.9,
-    "nutrients": { "kcal": 128, "protein_g": 0.1, "carbs_g": 34.6, "fat_g": 0.0, "sodium_mg": 2, "fiber_g": 0.0 },
-    "_status": "known"
-  },
-  {
-    "original": "2tbsp. buffalo sauce",
-    "ingredient": "buffalo sauce",
-    "amount_grams": 30.0,
-    "dash_group": "fats",
-    "match_confidence": 0.6,
-    "nutrients": { "kcal": 15, "protein_g": 0.1, "carbs_g": 1.0, "fat_g": 1.2, "sodium_mg": 890, "fiber_g": 0.0 },
-    "_status": "uncertain"
+  "_meta": {
+    "unknown_ingredients": [],
+    "unknown_nutrients": [],
+    "parsing_warnings": [],
+    "inference_notes": [
+      "servings: 12"
+    ],
+    "suspicious": false
   }
-]
+}
