@@ -1,0 +1,364 @@
+{
+  "name": "Salmon Poke Bowl Recipe | High-Protein Meal Prep",
+  "category": "lunch",
+  "tags": [],
+  "servings": 4,
+  "source_url": "https://www.myprotein.com/thezone/recipe/salmon-poke-bowl-recipe-high-protein-meal-prep/",
+  "raw_ingredients": [
+    "3tbsp. light mayonnaise",
+    "1tbsp. sriracha",
+    "2tbsp. soy sauce",
+    "2tbsp. mirin (or any other rice wine vinegar)",
+    "1tbsp. toasted sesame oil",
+    "1tbsp. honey",
+    "300g sashimi grade salmon",
+    "1 carrot",
+    "1 cucumber",
+    "2-3 spring onions",
+    "1 avocado (sliced)",
+    "1cup ready-to-eat edamame beans",
+    "250g sticky white sushi rice",
+    "1-2 shallots (finely sliced)",
+    "1tbsp. coconut oil",
+    "To garnish: sesame seeds"
+  ],
+  "ingredients": [
+    {
+      "original_text": "3tbsp. light mayonnaise",
+      "parsed_amount": "",
+      "amount_grams": 45.0,
+      "name_normalized": "light mayonnaise",
+      "fdc_id": null,
+      "food_name": "light mayonnaise",
+      "dash_group": "fats",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 60,
+        "protein_g": 0,
+        "carbs_g": 1,
+        "fat_g": 6,
+        "sodium_mg": 90,
+        "fiber_g": 0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "1tbsp. sriracha",
+      "parsed_amount": "",
+      "amount_grams": 15.0,
+      "name_normalized": "sriracha",
+      "fdc_id": null,
+      "food_name": "sriracha",
+      "dash_group": "fats",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 10,
+        "protein_g": 0,
+        "carbs_g": 2,
+        "fat_g": 0,
+        "sodium_mg": 200,
+        "fiber_g": 0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "2tbsp. soy sauce",
+      "parsed_amount": "",
+      "amount_grams": 30.0,
+      "name_normalized": "soy sauce",
+      "fdc_id": null,
+      "food_name": "soy sauce",
+      "dash_group": "fats",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 10,
+        "protein_g": 1,
+        "carbs_g": 1,
+        "fat_g": 0,
+        "sodium_mg": 879,
+        "fiber_g": 0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "2tbsp. mirin (or any other rice wine vinegar)",
+      "parsed_amount": "",
+      "amount_grams": 30.0,
+      "name_normalized": "mirin",
+      "fdc_id": null,
+      "food_name": "mirin",
+      "dash_group": "sweets",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 40,
+        "protein_g": 0,
+        "carbs_g": 10,
+        "fat_g": 0,
+        "sodium_mg": 5,
+        "fiber_g": 0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "1tbsp. toasted sesame oil",
+      "parsed_amount": "",
+      "amount_grams": 14.0,
+      "name_normalized": "toasted sesame oil",
+      "fdc_id": null,
+      "food_name": "toasted sesame oil",
+      "dash_group": "fats",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 120,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 14,
+        "sodium_mg": 0,
+        "fiber_g": 0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "1tbsp. honey",
+      "parsed_amount": "",
+      "amount_grams": 21.0,
+      "name_normalized": "honey",
+      "fdc_id": null,
+      "food_name": "honey",
+      "dash_group": "sweets",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 64,
+        "protein_g": 0,
+        "carbs_g": 17,
+        "fat_g": 0,
+        "sodium_mg": 1,
+        "fiber_g": 0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "300g sashimi grade salmon",
+      "parsed_amount": "",
+      "amount_grams": 300.0,
+      "name_normalized": "sashimi grade salmon",
+      "fdc_id": null,
+      "food_name": "sashimi grade salmon",
+      "dash_group": "meats",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 360,
+        "protein_g": 40,
+        "carbs_g": 0,
+        "fat_g": 20,
+        "sodium_mg": 100,
+        "fiber_g": 0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "1 carrot",
+      "parsed_amount": "",
+      "amount_grams": 61.0,
+      "name_normalized": "carrot",
+      "fdc_id": null,
+      "food_name": "carrot",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 25,
+        "protein_g": 1,
+        "carbs_g": 6,
+        "fat_g": 0,
+        "sodium_mg": 42,
+        "fiber_g": 2
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "1 cucumber",
+      "parsed_amount": "",
+      "amount_grams": 100.0,
+      "name_normalized": "cucumber",
+      "fdc_id": null,
+      "food_name": "cucumber",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 10,
+        "protein_g": 0,
+        "carbs_g": 2,
+        "fat_g": 0,
+        "sodium_mg": 1,
+        "fiber_g": 1
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "2-3 spring onions",
+      "parsed_amount": "",
+      "amount_grams": 30.0,
+      "name_normalized": "spring onions",
+      "fdc_id": null,
+      "food_name": "spring onions",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 5,
+        "protein_g": 0,
+        "carbs_g": 1,
+        "fat_g": 0,
+        "sodium_mg": 2,
+        "fiber_g": 0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "1 avocado (sliced)",
+      "parsed_amount": "",
+      "amount_grams": 150.0,
+      "name_normalized": "avocado",
+      "fdc_id": null,
+      "food_name": "avocado",
+      "dash_group": "fats",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 240,
+        "protein_g": 3,
+        "carbs_g": 13,
+        "fat_g": 22,
+        "sodium_mg": 10,
+        "fiber_g": 10
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "1cup ready-to-eat edamame beans",
+      "parsed_amount": "",
+      "amount_grams": 155.0,
+      "name_normalized": "edamame beans",
+      "fdc_id": null,
+      "food_name": "edamame beans",
+      "dash_group": "meats",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 188,
+        "protein_g": 18,
+        "carbs_g": 14,
+        "fat_g": 8,
+        "sodium_mg": 9,
+        "fiber_g": 8
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "250g sticky white sushi rice",
+      "parsed_amount": "",
+      "amount_grams": 250.0,
+      "name_normalized": "sticky white sushi rice",
+      "fdc_id": null,
+      "food_name": "sticky white sushi rice",
+      "dash_group": "grains",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 320,
+        "protein_g": 6,
+        "carbs_g": 71,
+        "fat_g": 0,
+        "sodium_mg": 5,
+        "fiber_g": 2
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "1-2 shallots (finely sliced)",
+      "parsed_amount": "",
+      "amount_grams": 40.0,
+      "name_normalized": "shallots",
+      "fdc_id": null,
+      "food_name": "shallots",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 14,
+        "protein_g": 0,
+        "carbs_g": 3,
+        "fat_g": 0,
+        "sodium_mg": 2,
+        "fiber_g": 0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "1tbsp. coconut oil",
+      "parsed_amount": "",
+      "amount_grams": 14.0,
+      "name_normalized": "coconut oil",
+      "fdc_id": null,
+      "food_name": "coconut oil",
+      "dash_group": "fats",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 121,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 13,
+        "sodium_mg": 0,
+        "fiber_g": 0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "To garnish: sesame seeds",
+      "parsed_amount": "",
+      "amount_grams": 5.0,
+      "name_normalized": "sesame seeds",
+      "fdc_id": null,
+      "food_name": "sesame seeds",
+      "dash_group": "nuts",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 15,
+        "protein_g": 1,
+        "carbs_g": 1,
+        "fat_g": 1,
+        "sodium_mg": 0,
+        "fiber_g": 1
+      },
+      "_status": "known"
+    }
+  ],
+  "totals_per_serving": {
+    "kcal": 0.0,
+    "protein_g": 0.0,
+    "carbs_g": 0.0,
+    "fat_g": 0.0,
+    "sodium_mg": 0.0,
+    "fiber_g": 0.0,
+    "gl": null
+  },
+  "dash_servings_per_serving": {
+    "grains": 0.25,
+    "meats": 0.5,
+    "vegetables": 1.0,
+    "fruits": 0.0,
+    "dairy": 0.0,
+    "nuts": 0.25,
+    "sweets": 0.5,
+    "fats": 1.5
+  },
+  "compliance": {
+    "bp": true,
+    "diabetes": true,
+    "biliary": true
+  },
+  "_meta": {
+    "unknown_ingredients": [],
+    "unknown_nutrients": [],
+    "parsing_warnings": [],
+    "inference_notes": [
+      "servings: 4"
+    ],
+    "suspicious": false
+  }
+}
