@@ -1,0 +1,211 @@
+{
+  "name": "One-Pot Creamy Garlic Chicken Rice",
+  "category": "high-protein",
+  "tags": [],
+  "servings": 4,
+  "source_url": "https://www.myprotein.com/thezone/recipe/one-pot-creamy-garlic-chicken-rice/",
+  "raw_ingredients": [
+    "1tbsp. olive oil",
+    "500g chicken breast",
+    "300g brown rice",
+    "2tbsp. mixed herbs",
+    "3 garlic cloves",
+    "1 lemon",
+    "750ml chicken stock",
+    "200g green beans",
+    "200g low-fat Greek yoghurt",
+    "250g spinach",
+    "Handul fresh parsley"
+  ],
+  "ingredients": [
+    {
+      "original_text": "1tbsp. olive oil",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "500g chicken breast",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "300g brown rice",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "2tbsp. mixed herbs",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "3 garlic cloves",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "1 lemon",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "750ml chicken stock",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "200g green beans",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "200g low-fat Greek yoghurt",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "250g spinach",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "Handul fresh parsley",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    }
+  ],
+  "totals_per_serving": {
+    "kcal": 0.0,
+    "protein_g": 0.0,
+    "carbs_g": 0.0,
+    "fat_g": 0.0,
+    "sodium_mg": 0.0,
+    "fiber_g": 0.0,
+    "gl": null
+  },
+  "dash_servings_per_serving": {
+    "grains": 0.0,
+    "meats": 0.0,
+    "vegetables": 0.0,
+    "fruits": 0.0,
+    "dairy": 0.0,
+    "nuts": 0.0,
+    "sweets": 0.0,
+    "fats": 0.0
+  },
+  "compliance": {
+    "bp": true,
+    "diabetes": true,
+    "biliary": true
+  },
+  "_meta": {
+    "unknown_ingredients": [
+      "1tbsp. olive oil",
+      "500g chicken breast",
+      "300g brown rice",
+      "2tbsp. mixed herbs",
+      "3 garlic cloves",
+      "1 lemon",
+      "750ml chicken stock",
+      "200g green beans",
+      "200g low-fat Greek yoghurt",
+      "250g spinach",
+      "Handul fresh parsley"
+    ],
+    "unknown_nutrients": [],
+    "parsing_warnings": [
+      "ingredient[0]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[1]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[2]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[3]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[4]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[5]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[6]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[7]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[8]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[9]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[10]: missing: name or name_normalized or ingredient or food_name"
+    ],
+    "inference_notes": [
+      "servings: 4"
+    ],
+    "suspicious": true
+  }
+}
