@@ -1,0 +1,124 @@
+{
+  "name": "Zingy Chicken Burger",
+  "category": "high-protein",
+  "tags": [],
+  "servings": 4,
+  "source_url": "https://www.myprotein.com/thezone/recipe/zingy-chicken-burger-fakeaway-recipes/",
+  "raw_ingredients": [
+    "80g spicy tortilla chips",
+    "1 tsp. chilli powder",
+    "1 tsp. garlic granules",
+    "1 tsp. paprika",
+    "4 chicken breasts",
+    "1 egg (beaten)",
+    "50g cornflour",
+    "Low-calorie cooking spray",
+    "4 sesame seed burger buns",
+    "Handful lettuce leaves",
+    "2 tomatoes (sliced)",
+    "Sauce of choice"
+  ],
+  "ingredients": [
+    {
+      "original_text": "80g spicy tortilla chips",
+      "parsed_amount": "80g",
+      "name_normalized": "spicy tortilla chips",
+      "dash_group": "grains",
+      "nutrients": {"kcal": 380, "protein_g": 5, "carbs_g": 45, "fat_g": 20, "sodium_mg": 400, "fiber_g": 3}
+    },
+    {
+      "original_text": "1 tsp. chilli powder",
+      "parsed_amount": "1 tsp",
+      "name_normalized": "chilli powder",
+      "dash_group": "vegetables",
+      "nutrients": {"kcal": 6, "protein_g": 0.3, "carbs_g": 1, "fat_g": 0.3, "sodium_mg": 1, "fiber_g": 0.5}
+    },
+    {
+      "original_text": "1 tsp. garlic granules",
+      "parsed_amount": "1 tsp",
+      "name_normalized": "garlic granules",
+      "dash_group": "vegetables",
+      "nutrients": {"kcal": 5, "protein_g": 0.3, "carbs_g": 1, "fat_g": 0, "sodium_mg": 1, "fiber_g": 0.2}
+    },
+    {
+      "original_text": "1 tsp. paprika",
+      "parsed_amount": "1 tsp",
+      "name_normalized": "paprika",
+      "dash_group": "vegetables",
+      "nutrients": {"kcal": 6, "protein_g": 0.3, "carbs_g": 1, "fat_g": 0.3, "sodium_mg": 1, "fiber_g": 0.5}
+    },
+    {
+      "original_text": "4 chicken breasts",
+      "parsed_amount": "4",
+      "name_normalized": "chicken breast",
+      "dash_group": "meats",
+      "nutrients": {"kcal": 660, "protein_g": 132, "carbs_g": 0, "fat_g": 14, "sodium_mg": 600, "fiber_g": 0}
+    },
+    {
+      "original_text": "1 egg (beaten)",
+      "parsed_amount": "1",
+      "name_normalized": "egg",
+      "dash_group": "meats",
+      "nutrients": {"kcal": 78, "protein_g": 6, "carbs_g": 0.6, "fat_g": 5, "sodium_mg": 62, "fiber_g": 0}
+    },
+    {
+      "original_text": "50g cornflour",
+      "parsed_amount": "50g",
+      "name_normalized": "cornflour",
+      "dash_group": "grains",
+      "nutrients": {"kcal": 170, "protein_g": 0.5, "carbs_g": 41, "fat_g": 0.3, "sodium_mg": 2, "fiber_g": 0.5}
+    },
+    {
+      "original_text": "Low-calorie cooking spray",
+      "parsed_amount": "1 spray",
+      "name_normalized": "low-calorie cooking spray",
+      "dash_group": "fats",
+      "nutrients": {"kcal": 5, "protein_g": 0, "carbs_g": 0, "fat_g": 0.5, "sodium_mg": 0, "fiber_g": 0}
+    },
+    {
+      "original_text": "4 sesame seed burger buns",
+      "parsed_amount": "4",
+      "name_normalized": "sesame seed burger bun",
+      "dash_group": "grains",
+      "nutrients": {"kcal": 440, "protein_g": 12, "carbs_g": 60, "fat_g": 12, "sodium_mg": 560, "fiber_g": 3}
+    },
+    {
+      "original_text": "Handful lettuce leaves",
+      "parsed_amount": "1 handful",
+      "name_normalized": "lettuce leaves",
+      "dash_group": "vegetables",
+      "nutrients": {"kcal": 5, "protein_g": 0.5, "carbs_g": 1, "fat_g": 0.1, "sodium_mg": 10, "fiber_g": 0.5}
+    },
+    {
+      "original_text": "2 tomatoes (sliced)",
+      "parsed_amount": "2",
+      "name_normalized": "tomato",
+      "dash_group": "vegetables",
+      "nutrients": {"kcal": 44, "protein_g": 2, "carbs_g": 10, "fat_g": 0.5, "sodium_mg": 10, "fiber_g": 3}
+    },
+    {
+      "original_text": "Sauce of choice",
+      "parsed_amount": "1 serving",
+      "name_normalized": "sauce of choice",
+      "dash_group": "fats",
+      "nutrients": {"kcal": 50, "protein_g": 0, "carbs_g": 10, "fat_g": 2, "sodium_mg": 200, "fiber_g": 0}
+    }
+  ],
+  "methods": [
+    "1) First, preheat your oven to 180°C.",
+    "2) Then place the tortilla crisps, chilli powder, garlic granules, and paprika in a zip-lock food bag and use a rolling pin to smash the mixture into fine crumbs.",
+    "3) Next, set up a station to prepare your chicken breasts — you should line up three shallow bowls or slightly rounded plates. In the first, you should have cornflour, in the second you should have the beaten egg, and you should empty out the tortilla mix into the third.",
+    "4) Prepare your chicken breasts by patting them dry with a piece of kitchen towel. Then use tongs to place the first one in the cornflour mix – making sure to cover it fully. Then move on to dip the coated chicken breast into the egg wash, then finally the spicy tortilla mix. Repeat for the remaining chicken breasts.",
+    "5) Place each coated chicken breast on a baking tray and a spray with low-calorie cooking spray. Bake for 25 minutes, then carefully remove the tray from the oven and turn each chicken breast over. Spray the other side of each one with some more low-calorie spray and then bake for a further 20 minutes.",
+    "6) Meanwhile, prepare your burger buns by cutting them in half. Add a generous amount of peri peri sauce to the bottom bun, then place a few salad leaves and slices of tomato on top.",
+    "7) Once the zingy chicken fillets are completely cooked through and golden, place them on top of the tomatoes and lettuce. Then add another squirt of peri peri sauce or low-sugar ketchup and complete the burger with the top of the bun.",
+    "8) Enjoy!"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 468,
+    "protein_g": 59.4,
+    "carbs_g": 48.6,
+    "fat_g": 11.9
+  },
+  "notes": "Source: Myprotein The Zone. Author: Lauren Dawes. Published: 11/03/20. Makes 4 burgers."
+}
