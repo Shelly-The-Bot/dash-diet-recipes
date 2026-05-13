@@ -1,0 +1,226 @@
+{
+  "name": "Zingy Chicken Burger | Fakeaway Recipes",
+  "category": "high-protein",
+  "tags": [],
+  "servings": 4,
+  "source_url": "https://www.myprotein.com/thezone/recipe/zingy-chicken-burger-fakeaway-recipes/",
+  "raw_ingredients": [
+    "80g spicy tortilla chips",
+    "1 tsp. chilli powder",
+    "1 tsp. garlic granules",
+    "1 tsp. paprika",
+    "4 chicken breasts",
+    "1 egg (beaten)",
+    "50g cornflour",
+    "Low-calorie cooking spray",
+    "4 sesame seed burger buns",
+    "Handful lettuce leaves",
+    "2 tomatoes (sliced)",
+    "Sauce of choice"
+  ],
+  "ingredients": [
+    {
+      "original_text": "80g spicy tortilla chips",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "1 tsp. chilli powder",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "1 tsp. garlic granules",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "1 tsp. paprika",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "4 chicken breasts",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "1 egg (beaten)",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "50g cornflour",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "Low-calorie cooking spray",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "4 sesame seed burger buns",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "Handful lettuce leaves",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "2 tomatoes (sliced)",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "Sauce of choice",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    }
+  ],
+  "totals_per_serving": {
+    "kcal": 0.0,
+    "protein_g": 0.0,
+    "carbs_g": 0.0,
+    "fat_g": 0.0,
+    "sodium_mg": 0.0,
+    "fiber_g": 0.0,
+    "gl": null
+  },
+  "dash_servings_per_serving": {
+    "grains": 0.0,
+    "meats": 0.0,
+    "vegetables": 0.0,
+    "fruits": 0.0,
+    "dairy": 0.0,
+    "nuts": 0.0,
+    "sweets": 0.0,
+    "fats": 0.0
+  },
+  "compliance": {
+    "bp": true,
+    "diabetes": true,
+    "biliary": true
+  },
+  "_meta": {
+    "unknown_ingredients": [
+      "80g spicy tortilla chips",
+      "1 tsp. chilli powder",
+      "1 tsp. garlic granules",
+      "1 tsp. paprika",
+      "4 chicken breasts",
+      "1 egg (beaten)",
+      "50g cornflour",
+      "Low-calorie cooking spray",
+      "4 sesame seed burger buns",
+      "Handful lettuce leaves",
+      "2 tomatoes (sliced)",
+      "Sauce of choice"
+    ],
+    "unknown_nutrients": [],
+    "parsing_warnings": [
+      "ingredient[0]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[1]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[2]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[3]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[4]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[5]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[6]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[7]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[8]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[9]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[10]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[11]: missing: name or name_normalized or ingredient or food_name"
+    ],
+    "inference_notes": [
+      "servings: 4"
+    ],
+    "suspicious": true
+  }
+}
