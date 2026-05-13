@@ -2,8 +2,8 @@
   "name": "Parsed Recipe",
   "category": "high-protein",
   "tags": [],
-  "servings": 2,
-  "source_url": "https://www.myprotein.com/thezone/recipe/one-pan-halloumi-harissa-bake/",
+  "servings": 4,
+  "source_url": "https://www.myprotein.com/thezone/recipe/crispy-tofu-teriyaki-noodle-meal-prep/",
   "raw_ingredients": [],
   "ingredients": [],
   "totals_per_serving": {
@@ -35,7 +35,7 @@
     "unknown_nutrients": [],
     "parsing_warnings": [],
     "inference_notes": [
-      "servings: 2"
+      "servings: 4"
     ],
     "suspicious": false
   }
