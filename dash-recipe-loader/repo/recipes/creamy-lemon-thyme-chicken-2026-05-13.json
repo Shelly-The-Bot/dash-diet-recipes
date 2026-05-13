@@ -1,0 +1,401 @@
+{
+  "name": "Creamy Lemon & Thyme Chicken",
+  "category": "high-protein",
+  "tags": [],
+  "servings": 6,
+  "source_url": "https://www.myprotein.com/thezone/recipe/creamy-lemon-thyme-chicken/",
+  "raw_ingredients": [
+    "2 tsp. fresh thyme",
+    "2 tsp. mixed herbs",
+    "Salt & pepper to taste",
+    "6 boneless, skinless chicken thighs",
+    "1 tbsp. oil",
+    "1 onion (chopped)",
+    "2 garlic cloves (chopped)",
+    "Juice of 1 lemon",
+    "100ml chicken stock",
+    "200ml crème fraiche",
+    "Lemon slices",
+    "Fresh thyme",
+    "Quinoa (around 50g per serving)",
+    "Tenderstem broccoli",
+    "First, prepare the seasoning by mixing the fresh thyme, mixed herbs, salt, and pepper in a little bowl. Sprinkle generously over your chicken thighs, making sure to coat evenly, and keep any remaining seasoning to the side to use later.",
+    "Next, add the oil to a large pan over a medium heat. Once hot, add your chicken thighs and cook for several minutes on each side. They should be crispy and browned on the outside, and completely cooked through on the inside (with no pink bits). Remove the chicken from the pan and set aside.",
+    "In the same pan as you cooked the chicken, add the onion and garlic and cook for a few minutes until softened. Then add the lemon juice, chicken stock, and any of the remaining seasoning mix, stir well to combine, and allow to bubble for a few minutes.",
+    "Add the crème fraiche, stir through, and cook for another 2-3 minutes to thicken. Then add the chicken thighs back into the pan and allow to heat up for a few minutes.",
+    "Remove from the heat and garnish with fresh lemon slices and a sprinkle of thyme. Serve up with quinoa and enjoy immediately or portion up for your meal prep for the week. Delicious."
+  ],
+  "ingredients": [
+    {
+      "original_text": "2 tsp. fresh thyme",
+      "parsed_amount": "",
+      "amount_grams": 1,
+      "name_normalized": "fresh thyme",
+      "fdc_id": null,
+      "food_name": "fresh thyme",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 1.2,
+        "protein_g": 0.1,
+        "carbs_g": 0.2,
+        "fat_g": 0.0,
+        "sodium_mg": 0.4,
+        "fiber_g": 0.1
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "2 tsp. mixed herbs",
+      "parsed_amount": "",
+      "amount_grams": 2,
+      "name_normalized": "mixed herbs",
+      "fdc_id": null,
+      "food_name": "mixed herbs",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 4.5,
+        "protein_g": 0.2,
+        "carbs_g": 1.0,
+        "fat_g": 0.1,
+        "sodium_mg": 3.0,
+        "fiber_g": 0.3
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "Salt & pepper to taste",
+      "parsed_amount": "",
+      "amount_grams": 2,
+      "name_normalized": "salt",
+      "fdc_id": null,
+      "food_name": "salt",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 0,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 0,
+        "sodium_mg": 780,
+        "fiber_g": 0
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "6 boneless, skinless chicken thighs",
+      "parsed_amount": "",
+      "amount_grams": 0.5,
+      "name_normalized": "black pepper",
+      "fdc_id": null,
+      "food_name": "black pepper",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 1.3,
+        "protein_g": 0.1,
+        "carbs_g": 0.3,
+        "fat_g": 0.0,
+        "sodium_mg": 0.1,
+        "fiber_g": 0.1
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "1 tbsp. oil",
+      "parsed_amount": "",
+      "amount_grams": 600,
+      "name_normalized": "chicken thighs",
+      "fdc_id": null,
+      "food_name": "chicken thighs",
+      "dash_group": "meats",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 660,
+        "protein_g": 102,
+        "carbs_g": 0,
+        "fat_g": 24,
+        "sodium_mg": 420,
+        "fiber_g": 0
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "1 onion (chopped)",
+      "parsed_amount": "",
+      "amount_grams": 14,
+      "name_normalized": "olive oil",
+      "fdc_id": null,
+      "food_name": "olive oil",
+      "dash_group": "fats",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 119,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 13.5,
+        "sodium_mg": 0.3,
+        "fiber_g": 0
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "2 garlic cloves (chopped)",
+      "parsed_amount": "",
+      "amount_grams": 150,
+      "name_normalized": "onion",
+      "fdc_id": null,
+      "food_name": "onion",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 60,
+        "protein_g": 1.5,
+        "carbs_g": 14,
+        "fat_g": 0.2,
+        "sodium_mg": 6,
+        "fiber_g": 2.5
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "Juice of 1 lemon",
+      "parsed_amount": "",
+      "amount_grams": 6,
+      "name_normalized": "garlic",
+      "fdc_id": null,
+      "food_name": "garlic",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 9,
+        "protein_g": 0.4,
+        "carbs_g": 2,
+        "fat_g": 0,
+        "sodium_mg": 1.8,
+        "fiber_g": 0.1
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "100ml chicken stock",
+      "parsed_amount": "",
+      "amount_grams": 45,
+      "name_normalized": "lemon juice",
+      "fdc_id": null,
+      "food_name": "lemon juice",
+      "dash_group": "fruits",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 19,
+        "protein_g": 0.3,
+        "carbs_g": 6,
+        "fat_g": 0.2,
+        "sodium_mg": 0.9,
+        "fiber_g": 0.2
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "200ml crème fraiche",
+      "parsed_amount": "",
+      "amount_grams": 100,
+      "name_normalized": "chicken stock",
+      "fdc_id": null,
+      "food_name": "chicken stock",
+      "dash_group": "meats",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 12,
+        "protein_g": 1.0,
+        "carbs_g": 1.1,
+        "fat_g": 0.4,
+        "sodium_mg": 343,
+        "fiber_g": 0
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "Lemon slices",
+      "parsed_amount": "",
+      "amount_grams": 200,
+      "name_normalized": "crème fraiche",
+      "fdc_id": null,
+      "food_name": "crème fraiche",
+      "dash_group": "dairy",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 344,
+        "protein_g": 4.0,
+        "carbs_g": 6.4,
+        "fat_g": 34.0,
+        "sodium_mg": 40,
+        "fiber_g": 0
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "Fresh thyme",
+      "parsed_amount": "",
+      "amount_grams": 30,
+      "name_normalized": "lemon slices",
+      "fdc_id": null,
+      "food_name": "lemon slices",
+      "dash_group": "fruits",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 9,
+        "protein_g": 0.2,
+        "carbs_g": 3,
+        "fat_g": 0.1,
+        "sodium_mg": 0.6,
+        "fiber_g": 0.5
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "Quinoa (around 50g per serving)",
+      "parsed_amount": "",
+      "amount_grams": 300,
+      "name_normalized": "quinoa",
+      "fdc_id": null,
+      "food_name": "quinoa",
+      "dash_group": "grains",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 408,
+        "protein_g": 16,
+        "carbs_g": 68,
+        "fat_g": 7,
+        "sodium_mg": 12,
+        "fiber_g": 8
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "Tenderstem broccoli",
+      "parsed_amount": "",
+      "amount_grams": 150,
+      "name_normalized": "tenderstem broccoli",
+      "fdc_id": null,
+      "food_name": "tenderstem broccoli",
+      "dash_group": "vegetables",
+      "match_confidence": 0.0,
+      "nutrients": {
+        "kcal": 48,
+        "protein_g": 4.8,
+        "carbs_g": 6.0,
+        "fat_g": 0.6,
+        "sodium_mg": 36,
+        "fiber_g": 4.5
+      },
+      "_status": "matched"
+    },
+    {
+      "original_text": "First, prepare the seasoning by mixing the fresh thyme, mixed herbs, salt, and pepper in a little bowl. Sprinkle generously over your chicken thighs, making sure to coat evenly, and keep any remaining seasoning to the side to use later.",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "Next, add the oil to a large pan over a medium heat. Once hot, add your chicken thighs and cook for several minutes on each side. They should be crispy and browned on the outside, and completely cooked through on the inside (with no pink bits). Remove the chicken from the pan and set aside.",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "In the same pan as you cooked the chicken, add the onion and garlic and cook for a few minutes until softened. Then add the lemon juice, chicken stock, and any of the remaining seasoning mix, stir well to combine, and allow to bubble for a few minutes.",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "Add the crème fraiche, stir through, and cook for another 2-3 minutes to thicken. Then add the chicken thighs back into the pan and allow to heat up for a few minutes.",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    },
+    {
+      "original_text": "Remove from the heat and garnish with fresh lemon slices and a sprinkle of thyme. Serve up with quinoa and enjoy immediately or portion up for your meal prep for the week. Delicious.",
+      "parsed_amount": "",
+      "amount_grams": null,
+      "name_normalized": "",
+      "fdc_id": null,
+      "food_name": "",
+      "dash_group": null,
+      "match_confidence": 0.0,
+      "nutrients": null,
+      "_status": "unknown"
+    }
+  ],
+  "totals_per_serving": {
+    "kcal": 0.0,
+    "protein_g": 0.0,
+    "carbs_g": 0.0,
+    "fat_g": 0.0,
+    "sodium_mg": 0.0,
+    "fiber_g": 0.0,
+    "gl": null
+  },
+  "dash_servings_per_serving": {
+    "grains": 0.17,
+    "meats": 0.33,
+    "vegetables": 1.17,
+    "fruits": 0.33,
+    "dairy": 0.17,
+    "nuts": 0.0,
+    "sweets": 0.0,
+    "fats": 0.17
+  },
+  "compliance": {
+    "bp": true,
+    "diabetes": true,
+    "biliary": true
+  },
+  "_meta": {
+    "unknown_ingredients": [
+      "First, prepare the seasoning by mixing the fresh thyme, mixed herbs, salt, and pepper in a little bowl. Sprinkle generously over your chicken thighs, making sure to coat evenly, and keep any remaining seasoning to the side to use later.",
+      "Next, add the oil to a large pan over a medium heat. Once hot, add your chicken thighs and cook for several minutes on each side. They should be crispy and browned on the outside, and completely cooked through on the inside (with no pink bits). Remove the chicken from the pan and set aside.",
+      "In the same pan as you cooked the chicken, add the onion and garlic and cook for a few minutes until softened. Then add the lemon juice, chicken stock, and any of the remaining seasoning mix, stir well to combine, and allow to bubble for a few minutes.",
+      "Add the crème fraiche, stir through, and cook for another 2-3 minutes to thicken. Then add the chicken thighs back into the pan and allow to heat up for a few minutes.",
+      "Remove from the heat and garnish with fresh lemon slices and a sprinkle of thyme. Serve up with quinoa and enjoy immediately or portion up for your meal prep for the week. Delicious."
+    ],
+    "unknown_nutrients": [],
+    "parsing_warnings": [
+      "ingredient[14]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[15]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[16]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[17]: missing: name or name_normalized or ingredient or food_name",
+      "ingredient[18]: missing: name or name_normalized or ingredient or food_name"
+    ],
+    "inference_notes": [
+      "servings: 6"
+    ],
+    "suspicious": true
+  }
+}
