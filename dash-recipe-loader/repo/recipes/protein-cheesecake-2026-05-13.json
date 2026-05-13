@@ -1,0 +1,150 @@
+{
+  "name": "Protein Cheesecake Recipe | Low Calorie Cheesecake",
+  "category": "dessert",
+  "tags": ["high-protein", "low-calorie", "cheesecake", "dessert"],
+  "servings": 4,
+  "source_url": "https://www.myprotein.com/thezone/recipe/protein-cheesecake-recipe/",
+  "raw_ingredients": [
+    "3 plain crisp breads",
+    "2scoops Impact Whey Protein",
+    "1tbsp. peanut butter",
+    "2 tsp. milk",
+    "3tbsp. Muller Myprotein Natural Yogurt",
+    "1packet gelatine",
+    "250g quark",
+    "2 egg whites",
+    "10 drops Flavdrops"
+  ],
+  "ingredients": [
+    {
+      "original_text": "3 plain crisp breads",
+      "parsed_amount": "3",
+      "amount_grams": 18,
+      "name_normalized": "plain crisp breads",
+      "food_name": "plain crisp breads",
+      "dash_group": "grains",
+      "match_confidence": 0.8,
+      "nutrients": {"kcal": 70, "protein_g": 2, "carbs_g": 12, "fat_g": 2, "sodium_mg": 150, "fiber_g": 1},
+      "_status": "matched"
+    },
+    {
+      "original_text": "2scoops Impact Whey Protein",
+      "parsed_amount": "2",
+      "amount_grams": 60,
+      "name_normalized": "Impact Whey Protein",
+      "food_name": "Impact Whey Protein",
+      "dash_group": "meats",
+      "match_confidence": 0.9,
+      "nutrients": {"kcal": 240, "protein_g": 50, "carbs_g": 6, "fat_g": 3, "sodium_mg": 200, "fiber_g": 0},
+      "_status": "matched"
+    },
+    {
+      "original_text": "1tbsp. peanut butter",
+      "parsed_amount": "1",
+      "amount_grams": 16,
+      "name_normalized": "peanut butter",
+      "food_name": "peanut butter",
+      "dash_group": "fats",
+      "match_confidence": 0.95,
+      "nutrients": {"kcal": 94, "protein_g": 4, "carbs_g": 3, "fat_g": 8, "sodium_mg": 73, "fiber_g": 1},
+      "_status": "matched"
+    },
+    {
+      "original_text": "2 tsp. milk",
+      "parsed_amount": "2",
+      "amount_grams": 10,
+      "name_normalized": "milk",
+      "food_name": "milk",
+      "dash_group": "dairy",
+      "match_confidence": 0.95,
+      "nutrients": {"kcal": 6, "protein_g": 0.3, "carbs_g": 0.5, "fat_g": 0.3, "sodium_mg": 5, "fiber_g": 0},
+      "_status": "matched"
+    },
+    {
+      "original_text": "3tbsp. Muller Myprotein Natural Yogurt",
+      "parsed_amount": "3",
+      "amount_grams": 75,
+      "name_normalized": "Muller Myprotein Natural Yogurt",
+      "food_name": "natural yogurt",
+      "dash_group": "dairy",
+      "match_confidence": 0.8,
+      "nutrients": {"kcal": 45, "protein_g": 5, "carbs_g": 3, "fat_g": 1.5, "sodium_mg": 30, "fiber_g": 0},
+      "_status": "matched"
+    },
+    {
+      "original_text": "1packet gelatine",
+      "parsed_amount": "1",
+      "amount_grams": 10,
+      "name_normalized": "gelatine",
+      "food_name": "gelatine",
+      "dash_group": null,
+      "match_confidence": 0.7,
+      "nutrients": {"kcal": 0, "protein_g": 2, "carbs_g": 0, "fat_g": 0, "sodium_mg": 10, "fiber_g": 0},
+      "_status": "unknown"
+    },
+    {
+      "original_text": "250g quark",
+      "parsed_amount": "250",
+      "amount_grams": 250,
+      "name_normalized": "quark",
+      "food_name": "quark",
+      "dash_group": "dairy",
+      "match_confidence": 0.95,
+      "nutrients": {"kcal": 150, "protein_g": 25, "carbs_g": 5, "fat_g": 2, "sodium_mg": 150, "fiber_g": 0},
+      "_status": "matched"
+    },
+    {
+      "original_text": "2 egg whites",
+      "parsed_amount": "2",
+      "amount_grams": 66,
+      "name_normalized": "egg whites",
+      "food_name": "egg whites",
+      "dash_group": "meats",
+      "match_confidence": 0.95,
+      "nutrients": {"kcal": 34, "protein_g": 7, "carbs_g": 0.5, "fat_g": 0, "sodium_mg": 110, "fiber_g": 0},
+      "_status": "matched"
+    },
+    {
+      "original_text": "10 drops Flavdrops",
+      "parsed_amount": "10",
+      "amount_grams": 1,
+      "name_normalized": "Flavdrops",
+      "food_name": "Flavdrops",
+      "dash_group": null,
+      "match_confidence": 0.5,
+      "nutrients": {"kcal": 0, "protein_g": 0, "carbs_g": 0, "fat_g": 0, "sodium_mg": 0, "fiber_g": 0},
+      "_status": "unknown"
+    }
+  ],
+  "totals_per_serving": {
+    "kcal": 159.9,
+    "protein_g": 23.9,
+    "carbs_g": 7.5,
+    "fat_g": 4.2,
+    "sodium_mg": 145.5,
+    "fiber_g": 0.4,
+    "gl": null
+  },
+  "dash_servings_per_serving": {
+    "grains": 0.2,
+    "meats": 1.5,
+    "vegetables": 0.0,
+    "fruits": 0.0,
+    "dairy": 1.5,
+    "nuts": 0.0,
+    "sweets": 0.0,
+    "fats": 0.5
+  },
+  "compliance": {
+    "bp": true,
+    "diabetes": true,
+    "biliary": true
+  },
+  "_meta": {
+    "unknown_ingredients": ["gelatine", "Flavdrops"],
+    "unknown_nutrients": [],
+    "parsing_warnings": ["Nutritional estimates based on typical values", "Gelatine and Flavdrops marked as unknown DASH group"],
+    "inference_notes": ["Servings inferred from recipe context (makes one 9-inch cheesecake, 4 slices)", "Title: Protein Cheesecake Recipe | Low Calorie Cheesecake", "Method: 10 steps including base preparation, filling mixing, and refrigeration"],
+    "suspicious": false
+  }
+}
