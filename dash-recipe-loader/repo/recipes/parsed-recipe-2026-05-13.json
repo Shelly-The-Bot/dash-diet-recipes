@@ -2,8 +2,8 @@
   "name": "Parsed Recipe",
   "category": "high-protein",
   "tags": [],
-  "servings": 12,
-  "source_url": "https://www.myprotein.com/thezone/recipe/honey-sriracha-chicken-tenders/",
+  "servings": 5,
+  "source_url": "https://www.myprotein.com/thezone/recipe/homemade-beef-crunch-wraps-fakeaway/",
   "raw_ingredients": [],
   "ingredients": [],
   "totals_per_serving": {
@@ -35,7 +35,7 @@
     "unknown_nutrients": [],
     "parsing_warnings": [],
     "inference_notes": [
-      "servings: 12"
+      "servings: 5"
     ],
     "suspicious": false
   }
