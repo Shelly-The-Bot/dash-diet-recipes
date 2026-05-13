@@ -1,0 +1,248 @@
+# Volume and Weight Conversions → Metric
+# All values are authoritative or well-established.
+
+volume_to_ml:
+  "1 cup": 240
+  "1/2 cup": 120
+  "1/3 cup": 80
+  "1/4 cup": 60
+  "2/3 cup": 160
+  "3/4 cup": 180
+  "1/8 cup": 30
+  "3/8 cup": 90
+  "5/8 cup": 150
+  "7/8 cup": 210
+  "1 tbsp": 15
+  "1/2 tbsp": 7.5
+  "1 tsp": 5
+  "1/2 tsp": 2.5
+  "1/4 tsp": 1.25
+  "3/4 tsp": 3.75
+  "1 oz": 30
+  "2 oz": 60
+  "4 oz": 120
+  "8 oz": 240
+  "1 pint": 480
+  "1 quart": 960
+
+weight_to_g:
+  "1 oz": 28.35
+  "1/2 oz": 14.175
+  "2 oz": 56.7
+  "3 oz": 85.05
+  "4 oz": 113.4
+  "5 oz": 141.75
+  "6 oz": 170.1
+  "8 oz": 226.8
+  "10 oz": 283.5
+  "12 oz": 340.2
+  "1 lb": 453.592
+  "1.5 lb": 680.4
+  "2 lb": 907.2
+
+# Volume of common ingredients (density-aware)
+# grams per cup (240ml)
+volume_per_cup_g:
+  rolled oats: 80
+  steel cut oats: 80
+  oat bran: 90
+  rice: 185
+  brown rice: 185
+  white rice: 185
+  quinoa: 185
+  pasta (dry): 100
+  breadcrumbs: 108
+  flour: 125
+  all purpose flour: 125
+  whole wheat flour: 130
+  sugar: 200
+  brown sugar: 220
+  powdered sugar: 120
+  honey: 340
+  maple syrup: 320
+  milk: 244
+  almond milk: 240
+  oat milk: 240
+  soy milk: 244
+  water: 240
+  vegetable broth: 240
+  chicken broth: 240
+  olive oil: 216
+  vegetable oil: 224
+  butter: 227
+  peanut butter: 258
+  almond butter: 258
+  chia seeds: 122
+  flax seeds: 168
+  hemp seeds: 164
+  almonds: 143
+  walnuts: 120
+  peanuts: 146
+  sesame seeds: 144
+  sunflower seeds: 140
+  pumpkin seeds: 130
+  spinach: 30
+  arugula: 20
+  lettuce: 15
+  kale: 60
+  cabbage: 90
+  broccoli: 91
+  cauliflower: 100
+  carrots: 128
+  bell pepper: 150
+  onion: 160
+  tomato: 180
+  mushrooms: 70
+  garlic: 136
+  chickpeas: 164
+  black beans: 172
+  lentils: 192
+  kidney beans: 177
+  tofu: 126
+  eggs: 50
+  cream cheese: 232
+  greek yogurt: 245
+  yogurt: 245
+  ricotta: 262
+  cottage cheese: 226
+  feta cheese: 150
+  parmesan: 100
+  cheddar: 113
+  mozzarella: 112
+  banana: 150
+  apple: 182
+  orange: 131
+  strawberries: 144
+  blueberries: 148
+  raspberries: 123
+  mango: 165
+  grapes: 151
+
+# Standard reference amounts
+standard_amounts:
+  "medium banana": { grams: 118, note: "edible portion" }
+  "large banana": { grams: 136 }
+  "small banana": { grams: 101 }
+  "1/2 banana": { grams: 59 }
+  "medium apple": { grams: 182 }
+  "large apple": { grams: 223 }
+  "small apple": { grams: 149 }
+  "medium orange": { grams: 131 }
+  "large orange": { grams: 165 }
+  "small orange": { grams: 96 }
+  "1 cup strawberries": { grams: 152 }
+  "1 cup blueberries": { grams: 148 }
+  "1 cup raspberries": { grams: 123 }
+  "1 cup grapes": { grams: 151 }
+  "1 cup mango": { grams: 165 }
+  "medium peach": { grams: 150 }
+  "medium pear": { grams: 178 }
+  "medium lemon": { grams: 58 }
+  "medium lime": { grams: 67 }
+  "medium grapefruit": { grams: 246 }
+  "1 medium potato": { grams: 150 }
+  "1 large potato": { grams: 213 }
+  "1 small potato": { grams: 92 }
+  "1 medium sweet potato": { grams: 130 }
+  "1 large sweet potato": { grams: 180 }
+  "medium carrot": { grams: 61 }
+  "1 cup carrots": { grams: 128 }
+  "medium onion": { grams: 110 }
+  "large onion": { grams: 150 }
+  "small onion": { grams: 70 }
+  "1 cup spinach": { grams: 30 }
+  "1 cup broccoli": { grams: 91 }
+  "1 cup bell pepper": { grams: 150 }
+  "medium tomato": { grams: 123 }
+  "large tomato": { grams: 180 }
+  "1 cup mushrooms": { grams: 70 }
+  "medium zucchini": { grams: 196 }
+  "medium cucumber": { grams: 301 }
+  "1 large egg": { grams: 50 }
+  "1 medium egg": { grams: 44 }
+  "1 egg": { grams: 50 }
+  "1 slice bread": { grams: 28 }
+  "1 medium chicken breast": { grams: 174 }
+  "1 large chicken breast": { grams: 219 }
+  "1 small chicken breast": { grams: 140 }
+  "4 oz chicken breast": { grams: 113 }
+  "6 oz chicken breast": { grams: 170 }
+  "medium pork chop": { grams: 156 }
+  "4 oz salmon": { grams: 113 }
+  "6 oz salmon": { grams: 170 }
+  "1 medium beef patty": { grams: 113 }
+  "1 cup milk": { grams: 244 }
+  "1 cup almond milk": { grams: 240 }
+  "1 cup yogurt": { grams: 245 }
+  "1 slice cheese": { grams: 28 }
+  "1 oz cheese": { grams: 28 }
+  "1 cup cooked rice": { grams: 158 }
+  "1 cup cooked quinoa": { grams: 185 }
+  "1 cup cooked pasta": { grams: 140 }
+  "1 cup cooked oatmeal": { grams: 234 }
+  "1/2 cup dry oats": { grams: 40 }
+  "1 cup dry oats": { grams: 80 }
+  "1 cup cornflakes": { grams: 28 }
+  "1 cup granola": { grams: 61 }
+  "1 cup muesli": { grams: 81 }
+  "1 tbsp chia seeds": { grams: 12 }
+  "1 tbsp flax seeds": { grams: 10 }
+  "1 tbsp hemp seeds": { grams: 10 }
+  "1 tbsp peanut butter": { grams: 32 }
+  "1 oz almonds": { grams: 28 }
+  "1 tbsp olive oil": { grams: 13.5 }
+  "1 tbsp butter": { grams: 14 }
+  "1 tbsp vegetable oil": { grams: 14 }
+  "1 cup water": { grams: 240 }
+  "1 cup broth": { grams: 240 }
+  "1 tbsp lemon juice": { grams: 15 }
+  "1 tbsp lime juice": { grams: 15 }
+
+unit_aliases:
+  cup: cup
+  cups: cup
+  c: cup
+  tablespoon: tbsp
+  tablespoons: tbsp
+  tbsp: tbsp
+  tbs: tbsp
+  teaspoon: tsp
+  teaspoons: tsp
+  tsp: tsp
+  oz: oz
+  ounce: oz
+  ounces: oz
+  pound: lb
+  pounds: lb
+  lb: lb
+  lbs: lb
+  gram: g
+  grams: g
+  g: g
+  kilogram: kg
+  kg: kg
+  ml: ml
+  milliliter: ml
+  milliliters: ml
+  l: L
+  liter: L
+  liters: L
+  medium: medium
+  large: large
+  small: small
+  piece: piece
+  pieces: piece
+  slice: slice
+  slices: slice
+  whole: whole
+
+fraction_to_decimal:
+  "1/8": 0.125
+  "1/4": 0.25
+  "3/8": 0.375
+  "1/2": 0.5
+  "5/8": 0.625
+  "2/3": 0.667
+  "3/4": 0.75
+  "7/8": 0.875
+  "1/3": 0.333

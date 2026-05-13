@@ -37,11 +37,14 @@ servings:       integer — exact match
 
 Given a set of available ingredients, rank recipes by ingredient overlap.
 
+CLI invocation:
 ```
-have_ingredients: "ingredient1, ingredient2, ..."
-match_threshold:   0–100  (optional, default 0 — return all ranked)
-max_results:       integer (optional, default 10)
+browser.py match --have "ingredient1, ingredient2, ..." --threshold 0 --limit 10
 ```
+
+Param `--have` (required): comma-separated available ingredients
+Param `--threshold` (optional, default 0): minimum match score 0-100
+Param `--limit` (optional, default 10): max results returned
 
 **Score algebra:**
 ```
@@ -107,9 +110,46 @@ Schema: `recipes/schema.json`
 
 Clone if not present. Update via `git -C repo pull origin main`.
 
+## User-facing output format (IMPORTANT)
+
+D expects human-friendly output. DASH is the GOAL — always calculated — but **never shown as tables or flags** to the user.
+
+**Wrong (technical card format):**
+```
+## High-Protein Overnight Oats
+category: breakfast
+tags: high-protein, meal-prep, no-cook, vegetarian
+per_serving: 864 kcal | 104g protein | 83g carbs | 14g fat | 607mg sodium
+compliance: bp=true, diabetes=true, biliary=true
+DASH servings: 2.4 grains, 3.33 sweets, 0.5 nuts, 0.83 fruits, 0.75 dairy
+```
+
+**Correct (human natural format):**
+```
+→ High-Protein Overnight Oats (breakfast)
+  Oats, whey protein, chia seeds, banana, almond milk
+  Mix in a jar, fridge overnight, eat in the morning
+  104g protein, 864 kcal
+```
+
+Rules:
+- Short natural description (what to make, not nutritional breakdown)
+- No DASH tables, no compliance flags, no per-serving macros unless asked
+- DASH is always calculated under the hood
+- If multiple recipes: bullet list, one per line, max 3-4 lines each
+
 ## Pitfalls
 
+- **Empty `have_ingredients` must return 0 results.** `tokenize("") = {}` so every recipe scores 0.0; `0.0 >= 0.0 = True`. Fix: check `if not query_tokens: results = []` before iterating recipes. Tested 2026-05-13.
+- **No recipe in DB combines oatmeal + chicken for breakfast.** Tested 2026-05-13: 4 breakfast recipes exist — none have both oats and poultry. The gap is in the data, not the skill. Users should combine multiple recipe outputs or add whole ingredients.
 - `raw_ingredients` are free-text strings — fuzzy matching is imperfect. Log match failures.
 - `new_foods_needed` in recipes means FDC match failed — these ingredients may have unreliable nutrient data
 - `compliance` flags are per-recipe; cumulative day-level sodium/protein must be tracked separately (planner skill)
 - Some recipes have `prep_minutes: 0` or `cook_minutes: 0` — these are placeholders, not verified
+- **3 recipes have `kcal=0`:** Chocolate Protein Mug Cake, Coconut Pomegranate Protein Pancakes, Protein Brownies. Do not rely on kcal for sorting/filtering without also checking protein_g or other macros.
+
+## References
+
+- `references/human-queries.md` — real human query transcripts and expected outputs (session 2026-05-13)
+- **Empty `have_ingredients` must return 0 results.** `tokenize("") = {}` so every recipe scores 0.0; `0.0 >= 0.0 = True`. Fix: check `if not query_tokens: results = []` before iterating recipes. Tested 2026-05-13.
+- **No recipe in DB combines oatmeal + chicken for breakfast.** Tested 2026-05-13: 4 breakfast recipes exist (High-Protein Overnight Oats, Coconut Pomegranate Protein Pancakes, Tofu Scramble, Turkey Egg Muffins) — none have both oats and poultry. Match query `oatmeal + chicken breast` at any threshold returns 0 results. The gap is in the data, not the skill.

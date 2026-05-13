@@ -1,0 +1,249 @@
+# DASH Food → Group Mapping
+# Normalized ingredient name → DASH group
+# Extend this file as new ingredients are discovered and matched.
+# match_confidence indicates how certain the mapping is:
+#   1.0 = established DASH group, 0.8 = probable, 0.5 = approximation
+
+mapping:
+  # === GRAINS ===
+  oats: { group: grains, confidence: 1.0, note: "rolled oats, steel cut, oat bran" }
+  oatmeal: { group: grains, confidence: 1.0, note: "same as oats" }
+  rolled oats: { group: grains, confidence: 1.0 }
+  steel cut oats: { group: grains, confidence: 1.0 }
+  oat bran: { group: grains, confidence: 1.0 }
+  rice: { group: grains, confidence: 1.0, note: "white, brown, jasmine, basmati" }
+  brown rice: { group: grains, confidence: 1.0 }
+  white rice: { group: grains, confidence: 1.0 }
+  quinoa: { group: grains, confidence: 1.0 }
+  barley: { group: grains, confidence: 1.0 }
+  pasta: { group: grains, confidence: 1.0 }
+  whole wheat pasta: { group: grains, confidence: 1.0 }
+  bread: { group: grains, confidence: 1.0 }
+  whole wheat bread: { group: grains, confidence: 1.0 }
+  whole grain bread: { group: grains, confidence: 1.0 }
+  cereal: { group: grains, confidence: 0.7, note: "unsweetened, whole grain only" }
+  grits: { group: grains, confidence: 0.8 }
+  buckwheat: { group: grains, confidence: 1.0 }
+  millet: { group: grains, confidence: 1.0 }
+  couscous: { group: grains, confidence: 0.8 }
+  bulgur: { group: grains, confidence: 1.0 }
+
+  # === VEGETABLES ===
+  broccoli: { group: vegetables, confidence: 1.0 }
+  carrots: { group: vegetables, confidence: 1.0 }
+  carrot: { group: vegetables, confidence: 1.0 }
+  spinach: { group: vegetables, confidence: 1.0 }
+  tomato: { group: vegetables, confidence: 1.0 }
+  tomatoes: { group: vegetables, confidence: 1.0 }
+  bell pepper: { group: vegetables, confidence: 1.0 }
+  peppers: { group: vegetables, confidence: 1.0 }
+  red pepper: { group: vegetables, confidence: 1.0 }
+  green pepper: { group: vegetables, confidence: 1.0 }
+  kale: { group: vegetables, confidence: 1.0 }
+  lettuce: { group: vegetables, confidence: 1.0 }
+  cabbage: { group: vegetables, confidence: 1.0 }
+  green beans: { group: vegetables, confidence: 1.0 }
+  green peas: { group: vegetables, confidence: 1.0 }
+  peas: { group: vegetables, confidence: 1.0 }
+  lima beans: { group: vegetables, confidence: 1.0 }
+  potato: { group: vegetables, confidence: 1.0 }
+  potatoes: { group: vegetables, confidence: 1.0 }
+  sweet potato: { group: vegetables, confidence: 1.0 }
+  sweet potatoes: { group: vegetables, confidence: 1.0 }
+  squash: { group: vegetables, confidence: 1.0 }
+  zucchini: { group: vegetables, confidence: 1.0 }
+  cucumber: { group: vegetables, confidence: 1.0 }
+  onion: { group: vegetables, confidence: 1.0 }
+  onions: { group: vegetables, confidence: 1.0 }
+  leeks: { group: vegetables, confidence: 1.0 }
+  garlic: { group: vegetables, confidence: 1.0 }
+  mushroom: { group: vegetables, confidence: 1.0 }
+  mushrooms: { group: vegetables, confidence: 1.0 }
+  asparagus: { group: vegetables, confidence: 1.0 }
+  celery: { group: vegetables, confidence: 1.0 }
+  cauliflower: { group: vegetables, confidence: 1.0 }
+  eggplant: { group: vegetables, confidence: 1.0 }
+  collards: { group: vegetables, confidence: 1.0 }
+  brussels sprouts: { group: vegetables, confidence: 1.0 }
+  corn: { group: vegetables, confidence: 0.8 }
+  green beans: { group: vegetables, confidence: 1.0 }
+  leafy greens: { group: vegetables, confidence: 1.0, note: "generic" }
+  mixed vegetables: { group: vegetables, confidence: 0.7 }
+
+  # === FRUITS ===
+  banana: { group: fruits, confidence: 1.0 }
+  bananas: { group: fruits, confidence: 1.0 }
+  apple: { group: fruits, confidence: 1.0 }
+  apples: { group: fruits, confidence: 1.0 }
+  orange: { group: fruits, confidence: 1.0 }
+  oranges: { group: fruits, confidence: 1.0 }
+  strawberry: { group: fruits, confidence: 1.0 }
+  strawberries: { group: fruits, confidence: 1.0 }
+  mango: { group: fruits, confidence: 1.0 }
+  melon: { group: fruits, confidence: 1.0 }
+  watermelon: { group: fruits, confidence: 1.0 }
+  cantaloupe: { group: fruits, confidence: 1.0 }
+  grapes: { group: fruits, confidence: 1.0 }
+  raisins: { group: fruits, confidence: 1.0 }
+  dates: { group: fruits, confidence: 1.0 }
+  apricots: { group: fruits, confidence: 1.0 }
+  peaches: { group: fruits, confidence: 1.0 }
+  pineapple: { group: fruits, confidence: 1.0 }
+  berries: { group: fruits, confidence: 0.8 }
+  blueberries: { group: fruits, confidence: 1.0 }
+  raspberries: { group: fruits, confidence: 1.0 }
+  blackberries: { group: fruits, confidence: 1.0 }
+  pomegranate: { group: fruits, confidence: 1.0 }
+  grapefruit: { group: fruits, confidence: 1.0 }
+  tangerine: { group: fruits, confidence: 1.0 }
+  pear: { group: fruits, confidence: 1.0 }
+  pears: { group: fruits, confidence: 1.0 }
+  kiwi: { group: fruits, confidence: 1.0 }
+  avocado: { group: fruits, confidence: 1.0, note: "also fats, categorized as fruit" }
+  lemon: { group: fruits, confidence: 0.8 }
+  lime: { group: fruits, confidence: 0.8 }
+  lemon juice: { group: fruits, confidence: 0.8, note: "or fats" }
+
+  # === DAIRY ===
+  milk: { group: dairy, confidence: 1.0 }
+  whole milk: { group: dairy, confidence: 1.0 }
+  skim milk: { group: dairy, confidence: 1.0 }
+  fat-free milk: { group: dairy, confidence: 1.0 }
+  almond milk: { group: dairy, confidence: 0.9, note: "unsweetened, low-fat" }
+  oat milk: { group: dairy, confidence: 0.9 }
+  soy milk: { group: dairy, confidence: 0.9 }
+  yogurt: { group: dairy, confidence: 1.0 }
+  greek yogurt: { group: dairy, confidence: 1.0 }
+  cheese: { group: dairy, confidence: 1.0 }
+  cottage cheese: { group: dairy, confidence: 1.0 }
+  cheddar: { group: dairy, confidence: 1.0 }
+  feta cheese: { group: dairy, confidence: 1.0 }
+  parmesan: { group: dairy, confidence: 1.0 }
+  mozzarella: { group: dairy, confidence: 1.0 }
+  ricotta: { group: dairy, confidence: 1.0 }
+  cream cheese: { group: dairy, confidence: 0.5 }
+  butter: { group: dairy, confidence: 0.3, note: "usually fats; depends on context" }
+
+  # === MEATS / PROTEIN ===
+  chicken: { group: meats, confidence: 1.0 }
+  chicken breast: { group: meats, confidence: 1.0 }
+  chicken thighs: { group: meats, confidence: 1.0 }
+  chicken breast: { group: meats, confidence: 1.0 }
+  turkey: { group: meats, confidence: 1.0 }
+  ground turkey: { group: meats, confidence: 1.0 }
+  beef: { group: meats, confidence: 1.0 }
+  ground beef: { group: meats, confidence: 1.0 }
+  lean beef: { group: meats, confidence: 1.0 }
+  pork: { group: meats, confidence: 1.0 }
+  pork chop: { group: meats, confidence: 1.0 }
+  salmon: { group: meats, confidence: 1.0 }
+  fish: { group: meats, confidence: 1.0 }
+  tuna: { group: meats, confidence: 1.0 }
+  cod: { group: meats, confidence: 1.0 }
+  tilapia: { group: meats, confidence: 1.0 }
+  shrimp: { group: meats, confidence: 1.0 }
+  eggs: { group: meats, confidence: 1.0 }
+  egg: { group: meats, confidence: 1.0 }
+  egg whites: { group: meats, confidence: 0.9 }
+  tofu: { group: meats, confidence: 0.9, note: "plant protein, counted as meats in DASH" }
+  tempeh: { group: meats, confidence: 0.9 }
+  seitan: { group: meats, confidence: 0.8 }
+  lamb: { group: meats, confidence: 1.0 }
+  duck: { group: meats, confidence: 0.8 }
+  bacon: { group: meats, confidence: 0.3, note: "processed meat, limited in DASH" }
+  sausage: { group: meats, confidence: 0.3 }
+  ham: { group: meats, confidence: 0.3 }
+  deli meat: { group: meats, confidence: 0.2 }
+
+  # === NUTS / SEEDS / LEGUMES ===
+  almonds: { group: nuts, confidence: 1.0 }
+  walnuts: { group: nuts, confidence: 1.0 }
+  peanuts: { group: nuts, confidence: 1.0 }
+  mixed nuts: { group: nuts, confidence: 1.0 }
+  chia seeds: { group: nuts, confidence: 1.0 }
+  flax seeds: { group: nuts, confidence: 1.0 }
+  sunflower seeds: { group: nuts, confidence: 1.0 }
+  pumpkin seeds: { group: nuts, confidence: 1.0 }
+  sesame seeds: { group: nuts, confidence: 1.0 }
+  hemp seeds: { group: nuts, confidence: 1.0 }
+  tahini: { group: nuts, confidence: 1.0 }
+  nut butter: { group: nuts, confidence: 1.0 }
+  peanut butter: { group: nuts, confidence: 1.0 }
+  almond butter: { group: nuts, confidence: 1.0 }
+  kidney beans: { group: nuts, confidence: 1.0, note: "legumes" }
+  black beans: { group: nuts, confidence: 1.0 }
+  chickpeas: { group: nuts, confidence: 1.0 }
+  lentils: { group: nuts, confidence: 1.0 }
+  split peas: { group: nuts, confidence: 1.0 }
+  white beans: { group: nuts, confidence: 1.0 }
+  cannellini beans: { group: nuts, confidence: 1.0 }
+  pinto beans: { group: nuts, confidence: 1.0 }
+  refried beans: { group: nuts, confidence: 0.7 }
+  hummus: { group: nuts, confidence: 0.9 }
+
+  # === FATS / OILS ===
+  olive oil: { group: fats, confidence: 1.0 }
+  vegetable oil: { group: fats, confidence: 1.0 }
+  canola oil: { group: fats, confidence: 1.0 }
+  coconut oil: { group: fats, confidence: 0.8 }
+  avocado oil: { group: fats, confidence: 0.9 }
+  sesame oil: { group: fats, confidence: 1.0 }
+  oil: { group: fats, confidence: 0.8 }
+  mayonnaise: { group: fats, confidence: 0.5 }
+  low-fat mayonnaise: { group: fats, confidence: 0.8 }
+  salad dressing: { group: fats, confidence: 0.5 }
+  low-fat dressing: { group: fats, confidence: 0.8 }
+  vinaigrette: { group: fats, confidence: 0.8 }
+  butter: { group: fats, confidence: 0.9, note: "when used as fat" }
+  margarine: { group: fats, confidence: 0.8 }
+  soft margarine: { group: fats, confidence: 0.8 }
+  avocado: { group: fats, confidence: 1.0, note: "dual: fruit and fat" }
+
+  # === SWEETS / ADDED SUGARS ===
+  sugar: { group: sweets, confidence: 1.0 }
+  honey: { group: sweets, confidence: 1.0 }
+  maple syrup: { group: sweets, confidence: 1.0 }
+  jam: { group: sweets, confidence: 1.0 }
+  jelly: { group: sweets, confidence: 1.0 }
+  chocolate: { group: sweets, confidence: 1.0 }
+  cocoa powder: { group: sweets, confidence: 0.9 }
+  dark chocolate: { group: sweets, confidence: 0.9 }
+  whey protein: { group: sweets, confidence: 0.5, note: "protein supplement, categorized as sweets in DASH" }
+  protein powder: { group: sweets, confidence: 0.5 }
+  vanilla extract: { group: sweets, confidence: 0.5 }
+  confectioners sugar: { group: sweets, confidence: 1.0 }
+  brown sugar: { group: sweets, confidence: 1.0 }
+  cane sugar: { group: sweets, confidence: 1.0 }
+  agave: { group: sweets, confidence: 1.0 }
+  sorbet: { group: sweets, confidence: 1.0 }
+  gelatin: { group: sweets, confidence: 0.8 }
+
+  # === SPICES / HERBS (zero DASH contribution, excluded from mapping) ===
+  salt: { group: none, confidence: 1.0, note: "tracked via sodium_mg only" }
+  black pepper: { group: none, confidence: 1.0 }
+  garlic powder: { group: none, confidence: 0.8 }
+  onion powder: { group: none, confidence: 0.8 }
+  paprika: { group: none, confidence: 0.8 }
+  cumin: { group: none, confidence: 0.8 }
+  turmeric: { group: none, confidence: 0.8 }
+  oregano: { group: none, confidence: 0.8 }
+  basil: { group: none, confidence: 0.8 }
+  thyme: { group: none, confidence: 0.8 }
+  rosemary: { group: none, confidence: 0.8 }
+  cinnamon: { group: none, confidence: 0.8 }
+  ginger: { group: none, confidence: 0.8 }
+  chili powder: { group: none, confidence: 0.8 }
+  curry: { group: none, confidence: 0.8 }
+  bay leaf: { group: none, confidence: 0.8 }
+  vinegar: { group: none, confidence: 0.5 }
+  apple cider vinegar: { group: none, confidence: 0.5 }
+  soy sauce: { group: none, confidence: 0.3, note: "high sodium, tracked separately" }
+  mustard: { group: none, confidence: 0.5 }
+  hot sauce: { group: none, confidence: 0.3 }
+  worcestershire: { group: none, confidence: 0.3 }
+
+# Default for unmapped ingredients
+default:
+  group: null
+  confidence: 0.0
+  note: "not in DASH mapping — must be manually classified"
