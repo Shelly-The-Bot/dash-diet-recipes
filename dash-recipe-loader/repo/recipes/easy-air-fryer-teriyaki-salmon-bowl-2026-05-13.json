@@ -1,0 +1,274 @@
+{
+  "name": "Easy Air Fryer Teriyaki Salmon Bowl",
+  "category": "dinner",
+  "tags": [
+    "high-protein",
+    "air-fryer",
+    "salmon",
+    "teriyaki"
+  ],
+  "servings": 1,
+  "source_url": "https://www.myprotein.com/thezone/recipe/easy-air-fryer-teriyaki-salmon/",
+  "raw_ingredients": [
+    "1/2 cup sushi rice",
+    "1/4 tsp. ginger (grated)",
+    "1/4 tsp. garlic (minced)",
+    "1 tbsp. soy sauce",
+    "1 tsp. sugar",
+    "1 tsp. neutral oil",
+    "1 salmon fillet",
+    "1/4 avocado",
+    "1/2 cucumber",
+    "1/3 cup edamame beans",
+    "1 carrot"
+  ],
+  "ingredients": [
+    {
+      "original_text": "1/2 cup sushi rice",
+      "parsed_amount": "0.5 cup",
+      "amount_grams": 100.0,
+      "name_normalized": "sushi rice",
+      "fdc_id": null,
+      "food_name": "sushi rice",
+      "dash_group": "grains",
+      "match_confidence": 0.8,
+      "nutrients": {
+        "kcal": 130,
+        "protein_g": 2.7,
+        "carbs_g": 28.0,
+        "fat_g": 0.4,
+        "sodium_mg": 1,
+        "fiber_g": 0.5
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "1/4 tsp. ginger (grated)",
+      "parsed_amount": "0.25 tsp",
+      "amount_grams": 0.5,
+      "name_normalized": "ginger",
+      "fdc_id": null,
+      "food_name": "ginger",
+      "dash_group": null,
+      "match_confidence": 0.8,
+      "nutrients": {
+        "kcal": 0,
+        "protein_g": 0.0,
+        "carbs_g": 0.1,
+        "fat_g": 0.0,
+        "sodium_mg": 0,
+        "fiber_g": 0.0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "1/4 tsp. garlic (minced)",
+      "parsed_amount": "0.25 tsp",
+      "amount_grams": 0.5,
+      "name_normalized": "garlic",
+      "fdc_id": null,
+      "food_name": "garlic",
+      "dash_group": null,
+      "match_confidence": 0.8,
+      "nutrients": {
+        "kcal": 1,
+        "protein_g": 0.1,
+        "carbs_g": 0.2,
+        "fat_g": 0.0,
+        "sodium_mg": 0,
+        "fiber_g": 0.0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "1 tbsp. soy sauce",
+      "parsed_amount": "1 tbsp",
+      "amount_grams": 15.0,
+      "name_normalized": "soy sauce",
+      "fdc_id": null,
+      "food_name": "soy sauce",
+      "dash_group": null,
+      "match_confidence": 0.9,
+      "nutrients": {
+        "kcal": 9,
+        "protein_g": 1.3,
+        "carbs_g": 0.8,
+        "fat_g": 0.0,
+        "sodium_mg": 879,
+        "fiber_g": 0.0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "1 tsp. sugar",
+      "parsed_amount": "1 tsp",
+      "amount_grams": 4.0,
+      "name_normalized": "sugar",
+      "fdc_id": null,
+      "food_name": "sugar",
+      "dash_group": "sweets",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 16,
+        "protein_g": 0.0,
+        "carbs_g": 4.2,
+        "fat_g": 0.0,
+        "sodium_mg": 0,
+        "fiber_g": 0.0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "1 tsp. neutral oil",
+      "parsed_amount": "1 tsp",
+      "amount_grams": 4.0,
+      "name_normalized": "vegetable oil",
+      "fdc_id": null,
+      "food_name": "vegetable oil",
+      "dash_group": "fats",
+      "match_confidence": 0.7,
+      "nutrients": {
+        "kcal": 36,
+        "protein_g": 0.0,
+        "carbs_g": 0.0,
+        "fat_g": 4.0,
+        "sodium_mg": 0,
+        "fiber_g": 0.0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "1 salmon fillet",
+      "parsed_amount": "1 fillet",
+      "amount_grams": 170.0,
+      "name_normalized": "salmon fillet",
+      "fdc_id": null,
+      "food_name": "salmon fillet",
+      "dash_group": "meats",
+      "match_confidence": 0.95,
+      "nutrients": {
+        "kcal": 280,
+        "protein_g": 40.0,
+        "carbs_g": 0.0,
+        "fat_g": 12.0,
+        "sodium_mg": 90,
+        "fiber_g": 0.0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "1/4 avocado",
+      "parsed_amount": "0.25 whole",
+      "amount_grams": 50.0,
+      "name_normalized": "avocado",
+      "fdc_id": null,
+      "food_name": "avocado",
+      "dash_group": "fats",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 80,
+        "protein_g": 1.0,
+        "carbs_g": 4.0,
+        "fat_g": 7.5,
+        "sodium_mg": 5,
+        "fiber_g": 3.3
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "1/2 cucumber",
+      "parsed_amount": "0.5 whole",
+      "amount_grams": 150.0,
+      "name_normalized": "cucumber",
+      "fdc_id": null,
+      "food_name": "cucumber",
+      "dash_group": "vegetables",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 23,
+        "protein_g": 1.0,
+        "carbs_g": 4.5,
+        "fat_g": 0.2,
+        "sodium_mg": 3,
+        "fiber_g": 0.7
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "1/3 cup edamame beans",
+      "parsed_amount": "0.33 cup",
+      "amount_grams": 60.0,
+      "name_normalized": "edamame beans",
+      "fdc_id": null,
+      "food_name": "edamame beans",
+      "dash_group": "meats",
+      "match_confidence": 0.9,
+      "nutrients": {
+        "kcal": 94,
+        "protein_g": 8.0,
+        "carbs_g": 6.0,
+        "fat_g": 3.8,
+        "sodium_mg": 6,
+        "fiber_g": 3.0
+      },
+      "_status": "known"
+    },
+    {
+      "original_text": "1 carrot",
+      "parsed_amount": "1 whole",
+      "amount_grams": 60.0,
+      "name_normalized": "carrot",
+      "fdc_id": null,
+      "food_name": "carrot",
+      "dash_group": "vegetables",
+      "match_confidence": 1.0,
+      "nutrients": {
+        "kcal": 25,
+        "protein_g": 0.6,
+        "carbs_g": 5.9,
+        "fat_g": 0.1,
+        "sodium_mg": 35,
+        "fiber_g": 1.7
+      },
+      "_status": "known"
+    }
+  ],
+  "totals_per_serving": {
+    "kcal": 694,
+    "protein_g": 54.7,
+    "carbs_g": 49.7,
+    "fat_g": 28.0,
+    "sodium_mg": 1019,
+    "fiber_g": 9.2,
+    "gl": null
+  },
+  "dash_servings_per_serving": {
+    "grains": 0.5,
+    "meats": 1.0,
+    "vegetables": 1.5,
+    "fruits": 0.0,
+    "dairy": 0.0,
+    "nuts": 0.0,
+    "sweets": 0.3,
+    "fats": 1.0
+  },
+  "compliance": {
+    "bp": false,
+    "diabetes": false,
+    "biliary": null
+  },
+  "_meta": {
+    "unknown_ingredients": [],
+    "unknown_nutrients": [],
+    "parsing_warnings": [
+      "Sodium is elevated due to soy sauce - not ideal for high BP",
+      "Contains sugar - not ideal for prediabetes/diabetes"
+    ],
+    "inference_notes": [
+      "Nutrients calculated per 100g values scaled to ingredient amounts",
+      "Soy sauce is high sodium - recipe may not be suitable for DASH high BP condition",
+      "Recipe contains salmon which is good for omega-3 but overall sodium is high"
+    ],
+    "suspicious": true
+  }
+}
